@@ -1,0 +1,407 @@
+1. Subject ID (Office Use Only):
+
+Text Block
+
+2. Informant Number (Office Use Only):
+
+1
+2
+3
+
+3. What is your gender?
+
+Male
+Female
+
+4. What is your age?
+
+Text Block
+
+5. What is your relationship to the subject?
+
+Parent
+Brother / Sister
+Other Relative
+Spouse / Partner
+Close Friend
+Employer
+
+6. Other:
+
+Text Block
+
+7. How well do you know the subject?
+
+Not very well
+Moderately well
+Very well
+
+8. Here are some words and phrases describing different strengths and weaknesses. We would like you to think about ______ and to tell us how well each statement fits him / her.
+
+9. Talks a lot
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+10. Forgives others easily
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+11. Careful
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+12. Relaxed
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+13. Original, has new ideas
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+14. Keeps thoughts to themselves
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+15. Cold and distant with others
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+16. Hard worker
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+17. Tense
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+18. Good imagination
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+19. Makes things exciting
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+20. Kind and considerate
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+21. Very organized 
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+22. Worries a lot
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+23. Creative
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+24. Quiet
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+25. Sometimes rude
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+26. Works until a thing is done
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+27. Keeps calm in difficult situations
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+28. Likes to think and play with ideas
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+29. Outgoing, likes people
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+30. Likes to be cooperative
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+31. Does things quickly and carefully
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+32. Gets nervous easily
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+33. Knows a lot of art, music or books
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+34. Makes good use of opportunities
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+35. Works to his / her ability
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+35. Has lots of common sense
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+36. A leader
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+37. Good at sport
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+38. Shows initiative
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+39. Has a good sense of humor
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+40. A "good citizen"
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+41. Seems to be a loner
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+42. Is successful in his / her career
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+43. Is the type to be a great parent / is a great parent
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+44. If a parent, has difficulty coping with being a parent
+
+No, doesn't apply
+Yes, somewhat applies
+Yes, definitely applies
+
+45. To the best of your knowledge, did _____ have any of these problems over the last 12 months? Please check the option that best applies.
+
+46. Controlling anger, hot temper
+
+Not a problem
+A bit of a problem
+Definitely a problem
+
+47. Gets into fights
+
+Not a problem
+A bit of a problem
+Definitely a problem
+
+48. Thinks others are out to get them
+
+Not a problem
+A bit of a problem
+Definitely a problem
+
+49. Gets jealous
+
+Not a problem
+A bit of a problem
+Definitely a problem
+
+50. Blames others for own problems
+
+Not a problem
+A bit of a problem
+Definitely a problem
+
+51. Does not show guilt or regret after doing something bad
+
+Not a problem
+A bit of a problem
+Definitely a problem
+
+52. Suspicious of other people
+
+Not a problem
+A bit of a problem
+Definitely a problem
+
+53. Has trouble making friends
+
+Not a problem
+A bit of a problem
+Definitely a problem
+
+54. Has trouble making friends
+
+Not a problem
+A bit of a problem
+Definitely a problem
+
+55. Feels that no one loves them
+
+Not a problem
+A bit of a problem
+Definitely a problem
+
+56. Seems lonely
+
+Not a problem
+A bit of a problem
+Definitely a problem
+
+57. Feels depressed, miserable, sad, or unhappy
+
+Not a problem
+A bit of a problem
+Definitely a problem
+
+58. Has unreasonable fears or worries
+
+Not a problem
+A bit of a problem
+Definitely a problem
+
+59. Hears things that aren't there
+
+Not a problem
+A bit of a problem
+Definitely a problem
+
+60. Talks about suicide
+
+Not a problem
+A bit of a problem
+Definitely a problem
+
+61. Has conflicts with people at work
+
+Not a problem
+A bit of a problem
+Definitely a problem
+
+62. Problems finding or keeping a job
+
+Not a problem
+A bit of a problem
+Definitely a problem
+
+63. Poor money manager
+
+Not a problem
+A bit of a problem
+Definitely a problem
+
+64. Lacks enough money to make ends meet
+
+Not a problem
+A bit of a problem
+Definitely a problem
+
+65. Impulsive, rushes into things without thinking about what might happen
+
+Not a problem
+A bit of a problem
+Definitely a problem
+
+66. Has alchol problems
+
+Not a problem
+A bit of a problem
+Definitely a problem
+
+67. Has marijuana or other drug problems
+
+Not a problem
+A bit of a problem
+Definitely a problem
+
+68. Does things against the law
+
+Not a problem
+A bit of a problem
+Definitely a problem
+
+69. Has friends who get into trouble
+
+Not a problem
+A bit of a problem
+Definitely a problem

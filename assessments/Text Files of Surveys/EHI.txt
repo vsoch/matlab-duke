@@ -1,0 +1,175 @@
+1. Writing
+ 
+No preference
+Left preferred
+Left STRONGLY preferred
+Right preferred
+Right STRONGLY preferred
+ 
+2. Drawing
+ 
+No preference
+Left preferred
+Left STRONGLY preferred
+Right preferred
+Right STRONGLY preferred
+
+3. Throwing
+ 
+No preference
+Left preferred
+Left STRONGLY preferred
+Right preferred
+Right STRONGLY preferred
+
+4. Scissors
+ 
+No preference
+Left preferred
+Left STRONGLY preferred
+Right preferred
+Right STRONGLY preferred
+
+5. Comb
+ 
+No preference
+Left preferred
+Left STRONGLY preferred
+Right preferred
+Right STRONGLY preferred
+
+6. Toothbrush
+ 
+No preference
+Left preferred
+Left STRONGLY preferred
+Right preferred
+Right STRONGLY preferred
+
+7. Knife (without fork)
+ 
+No preference
+Left preferred
+Left STRONGLY preferred
+Right preferred
+Right STRONGLY preferred
+
+8. Spoon
+ 
+No preference
+Left preferred
+Left STRONGLY preferred
+Right preferred
+Right STRONGLY preferred
+
+9. Hammer
+ 
+No preference
+Left preferred
+Left STRONGLY preferred
+Right preferred
+Right STRONGLY preferred
+
+10. Screwdriver
+ 
+No preference
+Left preferred
+Left STRONGLY preferred
+Right preferred
+Right STRONGLY preferred
+
+11. Tennis racket
+ 
+No preference
+Left preferred
+Left STRONGLY preferred
+Right preferred
+Right STRONGLY preferred
+
+12. Knife (with fork)
+ 
+No preference
+Left preferred
+Left STRONGLY preferred
+Right preferred
+Right STRONGLY preferred
+
+13. Baseball bat (lower hand)
+ 
+No preference
+Left preferred
+Left STRONGLY preferred
+Right preferred
+Right STRONGLY preferred
+
+14. Golf club (lower hand)
+ 
+No preference
+Left preferred
+Left STRONGLY preferred
+Right preferred
+Right STRONGLY preferred
+
+15. Broom (upper hand)
+ 
+No preference
+Left preferred
+Left STRONGLY preferred
+Right preferred
+Right STRONGLY preferred
+
+16. Rake (upper hand)
+ 
+No preference
+Left preferred
+Left STRONGLY preferred
+Right preferred
+Right STRONGLY preferred
+
+17. Striking match (hand holding match)
+ 
+No preference
+Left preferred
+Left STRONGLY preferred
+Right preferred
+Right STRONGLY preferred
+
+18. Opening box (lid)
+ 
+No preference
+Left preferred
+Left STRONGLY preferred
+Right preferred
+Right STRONGLY preferred
+
+19. Dealing cards (card being dealt)
+ 
+No preference
+Left preferred
+Left STRONGLY preferred
+Right preferred
+Right STRONGLY preferred
+
+20. Threading needle (needle or thread according to which is moved)
+ 
+No preference
+Left preferred
+Left STRONGLY preferred
+Right preferred
+Right STRONGLY preferred
+
+21. Which food do you prefer to kick with?
+ 
+No preference
+Left preferred
+Left STRONGLY preferred
+Right preferred
+Right STRONGLY preferred
+
+22. Which eye do you use when using only one?
+ 
+No preference
+Left preferred
+Left STRONGLY preferred
+Right preferred
+Right STRONGLY preferred

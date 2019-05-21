@@ -1,0 +1,721 @@
+Directions: Please respond by selecting yes or no, as to whether you experienced any of the following events over the PAST YEAR . If you did experience the event, indicate how many times it occurred and the approximate date (dd/mm/yy).  If an event occurred, please select YES. Then indicate the degree to which adapting to the event required you to change core aspects of your life plans and/or your self-view. This rating is referred to as an impact rating and will be rated on the 4-point scale below.  In contrast, if an event caused you to significantly change your life plans and/or how you think or feel about yourself, and this change lasted for at least a week, it would be given a severe impact rating (#4 on scale below). For instance, if an event occurred and had an effect on you that lasted for about 1-2 days, but it did not alter your life plans much and/or how you view yourself, it would be given a "minor" impact rating (#1 on scale below).
+
+1. Death of a parent
+
+Yes
+No
+					
+2. Number of times occurred:
+
+FREE RESPONSE
+
+3. Approximate date(s) occurred:
+
+FREE RESPONSE
+						
+4. Impact rating:		
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+				
+5. Major personal injury or illness
+
+Yes
+No
+						
+6. Number of times occurred:
+
+FREE RESPONSE
+						
+7. Approximate date(s) occurred:
+
+FREE RESPONSE
+						
+8. Impact rating: 
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+						
+9. Major argument with parents
+
+Yes
+No
+						
+10. Number of times occurred:
+
+FREE RESPONSE
+						
+11. Approximate date(s) occurred:
+
+FREE RESPONSE
+						
+12. Impact rating: 
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+						
+13. Beginning an undergraduate program at university 
+
+Yes
+No
+						
+14. Number of times occurred:
+
+FREE RESPONSE
+						
+15. Approximate date(s) occurred:
+
+FREE RESPONSE
+						
+16. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+					
+17. Moving away from home
+
+Yes
+No
+						
+18. Number of times occurred:
+
+FREE RESPONSE
+						
+19. Approximate date(s) occurred:
+
+FREE RESPONSE
+					
+20. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+					
+21. Getting an unjustified low mark on a test
+
+Yes
+No
+	
+22. Number of times occurred:
+
+FREE RESPONSE
+
+23. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+24. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+25. Failing a number of courses
+
+Yes
+No
+		
+26. Number of times occurred:
+
+FREE RESPONSE
+
+27. Approximate date(s) occurred:
+
+FREE RESPONSE
+		
+28. mpact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+29. Minor violation of the law (e.g. speeding ticket)
+
+Yes
+No
+
+30. Number of times occurred:
+
+FREE RESPONSE
+
+31. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+32. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+33. Getting kicked out of college
+
+Yes
+No
+					
+34. Number of times occurred:
+
+FREE RESPONSE
+
+35. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+36. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+37. Seeking psychological or psychiatric consultation
+
+Yes
+No
+
+38. Number of times occurred:
+
+FREE RESPONSE
+
+39. Approximate date(s) occurred:
+
+FREE RESPONSE
+	
+40. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+41. Vacation alone/with friends
+
+Yes
+No
+
+42. Number of times occurred:
+
+FREE RESPONSE
+
+43. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+44. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+45. Pregnancy (either yourself or being the father)
+
+Yes
+No
+
+46. Number of times occurred:
+
+FREE RESPONSE
+
+47. Approximate date(s) occurred:
+
+FREE RESPONSE
+		
+48. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+49. Minor car accident
+
+Yes
+No
+
+50. Number of times occurred:
+
+FREE RESPONSE
+
+51. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+52. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+53. Seriously thinking about dropping college
+
+Yes
+No
+
+54. Number of times occurred:
+
+FREE RESPONSE
+
+55. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+56. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+57. Getting your own car
+
+Yes
+No
+
+58. Number of times occurred:
+
+FREE RESPONSE
+
+59. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+60. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+61. Jail term (self) (e.g. speeding ticket)
+
+Yes
+No
+
+62. Number of times occurred:
+
+FREE RESPONSE
+
+63. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+64. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+	
+65. Moving out of town with parents
+
+Yes
+No
+
+66. Number of times occurred:
+
+FREE RESPONSE
+
+67. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+68. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+69. Vacation with parents
+
+Yes
+No
+
+70. Number of times occurred:
+
+FREE RESPONSE
+
+71. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+72. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+73. Establishing new steady relationship with partner
+
+Yes
+No
+
+74. Number of times occurred:
+
+FREE RESPONSE
+
+75. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+76. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+77. Finding a part-time job
+
+Yes
+No
+
+78. Number of times occurred:
+
+FREE RESPONSE
+
+79. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+80. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+81. Sex difficulties with boy/girlfriend
+
+Yes
+No
+
+82. Number of times occurred:
+
+FREE RESPONSE
+
+83. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+84. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+85. Failing a course
+
+Yes
+No
+
+86. Number of times occurred:
+
+FREE RESPONSE
+
+87. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+88. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+	
+89. Major change of health in close family member
+
+Yes
+No
+						
+90. Number of times occurred:
+
+FREE RESPONSE
+
+91. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+92. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+93. Major car accident (car wrecked, people injured)
+
+Yes
+No
+	
+94. Number of times occurred:
+
+FREE RESPONSE
+
+95. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+96. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+97. Death of your best or very close friend
+
+Yes
+No
+
+98. Number of times occurred:
+
+FREE RESPONSE
+
+99. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+100. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+101. Family get-togethers
+
+Yes
+No
+
+102. Number of times occurred:
+
+FREE RESPONSE
+
+103. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+104. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+105. Break-up of parent's marriage/divorce
+
+Yes
+No
+
+106. Number of times occurred:
+
+FREE RESPONSE
+
+107. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+108. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+109. Losing a part-time job
+
+Yes
+No
+
+110. Number of times occurred:
+
+FREE RESPONSE
+	
+111. Approximate date(s) occurred:
+
+FREE RESPONSE
+	
+112. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+113. Major and/or chronic financial problems
+
+Yes
+No
+
+114. Number of times occurred:
+
+FREE RESPONSE
+
+115. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+116. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+117. Major argument with boy/girlfriend
+
+Yes
+No
+
+118. Number of times occurred:
+
+FREE RESPONSE
+
+119. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+120. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+121. Parent losing a job
+
+Yes
+No
+
+122. Number of times occurred:
+
+FREE RESPONSE
+
+123. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+124. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+125. Switch in program within same college or university
+
+Yes
+No
+
+126. Number of times occurred:
+
+FREE RESPONSE
+
+127. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+128. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+129. Losing a good friend
+
+Yes
+No
+
+130. Number of times occurred:
+
+FREE RESPONSE
+
+131. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+132. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+133. Change of job
+
+Yes
+No
+
+134. Number of times occurred:
+
+FREE RESPONSE
+
+135. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+136. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+137. Break-up with boy/girlfriend
+
+Yes
+No
+
+138. Number of times occurred:
+
+FREE RESPONSE
+
+139. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+140. Impact rating: 
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact
+
+141. Minor financial problems
+
+Yes
+No
+
+142. Number of times occurred:
+
+FREE RESPONSE
+
+143. Approximate date(s) occurred:
+
+FREE RESPONSE
+
+144. Impact rating:
+
+minor impact
+low moderate impact
+high moderate impact
+severe impact

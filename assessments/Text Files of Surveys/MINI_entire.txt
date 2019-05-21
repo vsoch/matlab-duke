@@ -1,0 +1,1681 @@
+Section 2 (MINI)							
+							
+DNS#	Orig. #	Question					
+	1	Patient's Name					
+							
+		Text Block					
+							
+	2	Date of Birth					
+							
+		Text Block					
+							
+	3	Gender					
+							
+		Male					
+		Female					
+							
+	4	Interviewer's Name					
+							
+		Text Block					
+							
+	5	Date of Interview					
+							
+		Text Block					
+							
+	6	Patient Number					
+							
+		Text Block					
+							
+	7	Time Interview Began					
+							
+		Text Block					
+							
+	8	Time Interview Ended					
+							
+		Text Block					
+							
+	9	Total Time					
+							
+		Text Block					
+							
+	10	MAJOR DEPRESSIVE EPISODE					
+							
+	11	"Have you EVER been depressed or down, most of the day, nearly every day, for two weeks?"					
+							
+		No					
+		Yes					
+							
+	12	"For the past two weeks have you been depressed or down, most of the day, nearly every day?"					
+							
+		No					
+		Yes					
+							
+	13	Have you EVER been much less interested in most things or much less able to enjoy the things you used to enjoy most of the time?					
+							
+		No					
+		Yes					
+							
+	14	"In the past two weeks, have you been much less interested in most things or much less able to enjoy the things you used to enjoy most of the time?"					
+							
+		No					
+		Yes					
+							
+	15	Depression Past 2 Weeks					
+							
+	16	"Was your appetite significantly decreased or increased nearly every day? Did your weight decrease or increase without trying intentionally (i.e., by ±5% of body weight or ±8 lbs. or ±3.5 kgs., for a 160 lb/70 kg. person in a month?)"					
+							
+		No					
+		Yes					
+							
+	17	"Did you have trouble sleeping nearly every night (difficulty falling asleep, waking up in the middle of the night, early morning wakening or sleeping excessively)?"					
+							
+		No					
+		Yes					
+							
+	18	"Did you talk or move more slowly than normal or were you fidgety, restless, or having trouble sitting still almost every day?"					
+							
+		No					
+		Yes					
+							
+	19	Did you feel tired or without energy almost every day?					
+							
+		No					
+		Yes					
+							
+	20	Did you feel worthless or guilty almost every day?					
+							
+		No					
+		Yes					
+							
+	21	Examples?					
+							
+		Text Block					
+							
+	22	THE EXAMPLES ARE CONSISTENT WITH A DELUSIONAL IDEA:					
+							
+		No					
+		Yes					
+							
+	23	Did you have difficulty concentrating or making decisions almost every day?					
+							
+		No					
+		Yes					
+							
+	24	"Did you repeatedly consider hurting yourself, feel suicidal, or wish that you were dead?"					
+							
+		No					
+		Yes					
+							
+	25	"Did these symptoms cause significant problems at home, at work, socially, at school or in some other important way?"					
+							
+		No					
+		Yes					
+							
+	26	DEPRESSION PAST EPISODE					
+							
+	27	"Was your appetite significantly decreased or increased nearly every day? Did your weight decrease or increase without trying intentionally (i.e., by ±5% of body weight or ±8 lbs. or ±3.5 kgs., for a 160 lb/70 kg. person in a month?)"					
+							
+		No					
+		Yes					
+							
+	28	"Did you have trouble sleeping nearly every night (difficulty falling asleep, waking up in the middle of the night, early morning wakening or sleeping excessively)?"					
+							
+		No					
+		Yes					
+							
+	29	"Did you talk or move more slowly than normal or were you fidgety, restless, or having trouble sitting still almost every day?"					
+							
+		No					
+		Yes					
+							
+	30	Did you feel tired or without energy almost every day?					
+							
+		No					
+		Yes					
+							
+	31	Did you feel worthless or guilty almost every day?					
+							
+		No					
+		Yes					
+							
+	32	Examples?					
+							
+		Text Block					
+							
+	33	THE EXAMPLES ARE CONSISTENT WITH A DELUSIONAL IDEA:					
+							
+		No					
+		Yes					
+							
+	34	Did you have difficulty concentrating or making decisions almost every day?					
+							
+		No					
+		Yes					
+							
+	35	"Did you repeatedly consider hurting yourself, feel suicidal, or wish that you were dead?"					
+							
+		No					
+		Yes					
+							
+	36	"Did these symptoms cause significant problems at home, at work, socially, at school or in some other important way?"					
+							
+		No					
+		Yes					
+							
+	37	"Are the symptoms due entirely to the loss of a loved one (bereavement) and are they similar in severity, level of impairment, and duration to what most others would suffer under normal circumstances? If so, this is uncomplicated bereavement."					
+							
+		No					
+		Yes					
+							
+	38	Were you taking any drugs or medicines just before these symptoms began? Did you have any medical illness just before these symptoms began?					
+							
+		No					
+		Yes					
+							
+	39	"If you were taking drugs or medicines, what were they? If you had a medical illness, what did you have?"					
+							
+		Text Block					
+							
+	40	"During your lifetime, did you have other episodes of two weeks or more when you felt depressed or uninterested in most things, and had most of the problems we just talked about?"					
+							
+		No					
+		Yes					
+							
+	41	"In between 2 episodes of depression, did you ever have an interval of at least 2 months, without any depression or any significant loss of interest?"					
+							
+		No					
+		Yes					
+							
+	42	How many episodes of depression did you have in your lifetime?					
+							
+		Text Block					
+							
+	43	ARE 5 OR MORE ANSWERS (A1-A3) CODED YES AND IS A4 CODED YES FOR THAT TIME FRAME?					
+							
+		No					
+		Yes (MAJOR DEPRESSIVE EPISODE)					
+							
+	44	SPECIFY IF THE EPISODE IS CURRENT AND/OR PAST					
+							
+		CURRENT					
+		PAST					
+		RECURRENT					
+							
+	45	MAJOR DEPRESSIVE EPISODE WITH MELANCHOLIC FEATURES					
+							
+	46	"During the most severe period of the current depressive episode, did you lose almost completely your ability to enjoy nearly everything?"					
+							
+		No					
+		Yes					
+							
+	47	"During the most severe period of the current depressive episode, did you lose your ability to respond to things that previously gave you pleasure, or cheered you up?"					
+							
+		No					
+		Yes					
+							
+	48	"When something good happens does it fail to make you feel better, even temporarily?"					
+							
+		No					
+		Yes					
+							
+	49	"Over the past two week period, when you felt depressed and uninterested:"					
+							
+	50	Did you feel depressed in a way that is different from the kind of feeling you experience when someone close to you dies?					
+							
+		No					
+		Yes					
+							
+	51	"Did you feel regularly worse in the morning, almost every day?"					
+							
+		No					
+		Yes					
+							
+	52	"Did you wake up at least 2 hours before the usual time of awakening and have difficulty getting back to sleep, almost every day?"					
+							
+		No					
+		Yes					
+							
+	53	Did you feel excessive guilt or guilt out of proportion to the reality of the situation?					
+							
+		No					
+		Yes					
+							
+	54	ARE 3 OR MORE A8 ANSWERS CODED YES?					
+							
+		NO					
+		"YES (MAJOR DEPRESSIVE EPISODE with Melancholic Features, Current)"					
+							
+	55	Dysthymia					
+							
+	56	"Have you felt sad, low, or depressed most of the time for the last two years?"					
+							
+		No					
+		Yes					
+							
+	57	Was this period interrupted by your feeling OK for two months or more?					
+							
+		No					
+		Yes					
+							
+	58	During this period of feeling depressed most of the time:					
+							
+	59	Did you appetite change significantly?					
+							
+		No					
+		Yes					
+							
+	60	Did you have trouble sleeping or sleep excessively?					
+							
+		No					
+		Yes					
+							
+	61	Did you feel tired or without energy?					
+							
+		No					
+		Yes					
+							
+	62	Did you lose your self confidence?					
+							
+		No					
+		Yes					
+							
+	63	Did you have trouble concentrating or making decisions?					
+							
+		No					
+		Yes					
+							
+	64	Did you feel hopeless?					
+							
+		No					
+		Yes					
+							
+	65	"Did the symptoms of depression cause you significant distress or impair your ability to function at work, socially, or in some other important way?"					
+							
+		No					
+		Yes					
+							
+	66	Were you taking any drugs or medicines just before these symptoms began? Did you have any medical illness just before these symptoms began?					
+							
+		No					
+		Yes					
+							
+	67	How old were you when you first began having symptoms of 2 years of continuous depression?					
+							
+		Text Block					
+							
+	68	"In the past, did you ever feel sad, low, or depressed for 2 years continuously?"					
+							
+		No					
+		Yes					
+							
+	69	Was this period interrupted by your feeling OK for two months or more?					
+							
+		No					
+		Yes					
+							
+	70	During this period of feeling depressed most of the time:					
+							
+	71	Did your appetite change significantly?					
+							
+		No					
+		Yes					
+							
+	72	Did you have trouble sleeping or sleep excessively?					
+							
+		No					
+		Yes					
+							
+	73	Did you feel tired or without energy?					
+							
+		No					
+		Yes					
+							
+	74	Did you lose your self-confidence?					
+							
+		No					
+		Yes					
+							
+	75	Did you have trouble concentrating or making decisions?					
+							
+		No					
+		Yes					
+							
+	76	Did you feel hopeless?					
+							
+		No					
+		Yes					
+							
+	77	"Did the symptoms of depression cause you significant distress or impair your ability to function at work, socially, or in some other important way?"					
+							
+		No					
+		Yes					
+							
+	78	Were you taking any drugs or medicines just before these symptoms began? Did you have any medical illness just before these symptoms began?					
+							
+		No					
+		Yes					
+							
+	79	IN THE CLINICIAN'S JUDGMENT: ARE EITHER OF THESE LIKELY TO BE DIRECT CAUSES OF THE PATIENT'S DEPRESSION?					
+							
+		No					
+		Yes					
+							
+	80	IS B5 CODED YES?					
+							
+		No					
+		Yes (Dysthymia)					
+							
+	81	Specify whether the dysthymia is current or past					
+		CURRENT					
+		PAST					
+							
+	82	How old were you when you first began having symptoms of 2 years of continuous depression?					
+							
+		Text Block					
+							
+	83	SUICIDALITY					
+							
+	84	In the past 2 weeks did you:					
+							
+	85	Suffer any accident?					
+							
+		No					
+		Yes					
+							
+	86	Plan or intend to hurt yourself in that accident either actively or passively (e.g. not avoiding risk)?					
+							
+		No					
+		Yes					
+							
+	87	Intend to die as a result of this accident?					
+							
+		No					
+		Yes					
+							
+	88	Feel hopeless?					
+							
+		No					
+		Yes					
+							
+	89	Think that you would be better off dead or wish you were dead?					
+							
+		No					
+		Yes					
+							
+	90	Want to harm yourself or to hurt or to injure yourself or have mental images of harming yourself?					
+							
+		No					
+		Yes					
+							
+	91	Think about suicide?					
+							
+		No					
+		Yes					
+							
+	92	How frequently do you think about suicide?					
+							
+		Occasionally					
+		Often					
+		Very Often					
+							
+	93	How intensely do you think about suicide?					
+							
+		Mild					
+		Moderate					
+		Severe					
+							
+	94	Can you state that you will not act on these impulses during the treatment program?					
+							
+		No					
+		Yes					
+							
+	95	Feel unable to control these impulses?					
+							
+		No					
+		Yes					
+							
+	96	Have a suicide plan?					
+							
+		No					
+		Yes					
+							
+	97	Take any active steps to prepare to injure yourself or to prepare for a suicide attempt in which you expected or intended to die?					
+							
+		No					
+		Yes					
+							
+	98	Deliberately injure yourself without intending to kill yourself?					
+							
+		No					
+		Yes					
+							
+	99	Attempt suicide?					
+							
+		No					
+		Yes					
+							
+	100	Attempt suicide?					
+							
+		Hope to be rescued/survive					
+		Expected or intended to die					
+							
+	101	In your lifetime:					
+							
+	102	Did you ever make a suicide attempt?					
+							
+		No					
+		Yes					
+							
+	103	MAKE ANY ADDITIONAL COMMENTS ABOUT YOUR ASSESSMENT OF THIS PATIENT'S CURRENT AND NEAR FUTURE SUICIDALITY IN THE SPACE BELOW.					
+							
+		Text Block					
+							
+	104	"If potential risk of suicide is present, contact PT's as instructed in protocol and complete Incident documentation form"					
+							
+	105	MANIC AND HYPOMANIC EPISODE					
+							
+	106	"Do you have any family history of manic depressive illness or bipolar disorder? or any family member who had mood swings treated with a medication like lithium, sodium valproate (Depakote) or lamotrigine (Lamictal)?"					
+							
+		No					
+		Yes					
+							
+	107	"IF YES, IS THIS A FIRST DEGREE RELATIVE?"					
+							
+		No					
+		Yes					
+							
+	108	"Have you ever had a period of time when you were feeling ""up"" or ""high"" or ""hyper"" or so full of energy or full of yourself that you got into trouble, or that other people thought you were not your usual self? (Do not consider times when you were intoxicated on drugs or alcohol.) IF PATIENT IS PUZZLED OR UNCLEAR ABOUT WHAT YOU MEAN BY UP OR HIGH OR HYPER, CLARIFY AS FOLLOWS: By ""up"" or ""high"" or ""hyper"" I mean having elated mood, increased energy, needing less sleep, having rapid thoughts, being full of ideas, having an increase in productivity, motivation, creativity, or impulsive behavior, phoning or working excessively or spending more money."					
+							
+		No					
+		Yes					
+							
+	109	Are you currently feeling 'up' or 'high' or 'hyper' or full of energy?					
+							
+		No					
+		Yes					
+							
+	110	"Have you ever been persistently irritable, for several days, so that you had arguments or verbal or physical fights, or shouted at people outside your family? Have you or others noticed that you have been more irritable or over reacted, compared to other people, even in situations that you felt were justified?"					
+							
+		No					
+		Yes					
+							
+	111	Are you currently feeling persistently irritable?					
+							
+		No					
+		Yes					
+							
+	112	CURRENT MANIC SYMPTOMS					
+							
+	113	"During the times when you felt high, full of energy, or irritable did you:"					
+							
+	114	"Feel that you could do things others couldn't do, or that you were an especially important person?"					
+							
+		No					
+		Yes					
+							
+	115	Examples:					
+							
+		Text Block					
+							
+	116	THE EXAMPLES ARE CONSISTENT WITH A DELUSIONAL IDEA.					
+							
+		No					
+		Yes					
+							
+	117	"Need less sleep (for example, feel rested after only a few hours sleep)?"					
+							
+		No					
+		Yes					
+							
+	118	"Talk too much without stopping, or so fast that people had difficulty understanding?"					
+							
+		No					
+		Yes					
+							
+	119	Have racing thoughts?					
+							
+		No					
+		Yes					
+							
+	120	Become easily distracted so that any little interruption could distract you?					
+							
+		No					
+		Yes					
+							
+	121	Become so active or physically restless that others were worried about you?					
+							
+		No					
+		Yes					
+							
+	122	"Want so much to engage in pleasurable activities that you ignored the risks or consequences (for example, spending sprees, reckless driving, or sexual indiscretions)?"					
+							
+		No					
+		yes					
+							
+	123	How long did these symptoms last?					
+							
+		3 days or less					
+		4 to 6 days					
+		7 days or more					
+							
+	124	"Were you hospitalized for these problems? IF YES, STOP HERE AND CIRCLE YES IN MANIC EPISODE "					
+							
+		No					
+		Yes					
+							
+	125	"Did these symptoms cause significant problems at home, at work, socially, in your relationships with others, at school or in some other important way?"					
+							
+		No					
+		Yes					
+							
+	126	PAST MANIC SYMPTOMS					
+							
+	127	"During the times when you felt high, full of energy, or irritable did you:"					
+							
+	128	"Feel that you could do things others couldn't do, or that you were an especially important person?"					
+							
+		No					
+		Yes					
+							
+	129	Examples:					
+							
+		Text Block					
+							
+	130	THE EXAMPLES ARE CONSISTENT WITH A DELUSIONAL IDEA.					
+							
+		No					
+		Yes					
+							
+	131	"Need less sleep (for example, feel rested after only a few hours sleep)?"					
+							
+		No					
+		Yes					
+							
+	132	"Talk too much without stopping, or so fast that people had difficulty understanding?"					
+							
+		No					
+		Yes					
+							
+	133	Have racing thoughts?					
+							
+		No					
+		Yes					
+							
+	134	Become easily distracted so that any little interruption could distract you?					
+							
+		No					
+		Yes					
+							
+	135	Become so active or physically restless that others were worried about you?					
+							
+		No					
+		Yes					
+							
+	136	"Want so much to engage in pleasurable activities that you ignored the risks or consequences (for example, spending sprees, reckless driving, or sexual indiscretions)?"					
+							
+		No					
+		yes					
+							
+	137	ARE 3 OR MORE D3 ANSWERS CODED YES? OR4or more if D1a is NO (in rating past episode) and D1b is NO (in rating current episode)?					
+							
+		No					
+		Yes					
+							
+	138	Rule: Elation/expansiveness requires only three D3 symptoms while irritable mood alone requires 4 of the D3 symptoms.					
+							
+	139	Verify if the symptoms occurred during the same time period					
+							
+		No					
+		Yes					
+							
+	140	How long did these symptoms last?					
+							
+		3 days or less					
+		4 to 6 days					
+		7 days or more					
+							
+	141	"Were you hospitalized for these problems? IF YES, STOP HERE AND CIRCLE YES IN MANIC EPISODE "					
+							
+		No					
+		Yes					
+							
+	142	"Did these symptoms cause significant problems at home, at work, socially, in your relationships with others, at school or in some other important way?"					
+							
+		No					
+		Yes					
+							
+	143	Are both D5 and D6 coded yes and either D4a or b or c coded yes? Or is D5 coded no and D6 coded yes and D4c coded yes?					
+							
+		No					
+		Yes (MANIC EPISODE)					
+							
+	144	Specify if the episode is current and/or past:					
+							
+		CURRENT					
+		PAST					
+							
+	145	Are both D5 and D6 coded no and either D4b or D4c coded yes? Or is D5 coded no and D6 yes and D4b coded yes?					
+							
+		No					
+		Yes (HYPOMANIC EPISODE)					
+							
+	146	Specify if the episode is current and/or past:					
+							
+		CURRENT					
+		PAST					
+							
+	147	Are both D5 and D6 coded no and is D4a coded yes?					
+							
+		No					
+		Yes (HYPOMANIC SYMPTOMS)					
+							
+	148	Specify if the episode is current and/or past:					
+							
+		CURRENT					
+		PAST					
+							
+	149	PANIC DISORDER					
+							
+	150	"Have you, on more than one occasion, had spells or attacks when you suddenly felt anxious, frightened, uncomfortable or uneasy, even in situations where most people would not feel that way?"					
+							
+		No					
+		Yes					
+							
+	151	Did the spells surge to a peak within 10 minutes or starting?					
+							
+		No					
+		Yes					
+							
+	152	"At any time in the past , did any of those spells or attacks come on unexpectedly or occur in an unpredictable or unprovoked manner?"					
+							
+		No					
+		Yes					
+							
+	153	"Have you ever had one such attack followed by a month or more of persistent concern about having another attack, or worries about the consequences of the attack or did you make a significant change in your behavior because of the attacks (e.g., shopping only with a companion, not wanting to leave your house, visiting the emergency room repeatedly, or seeing your doctor more frequently because of the symptoms)?"					
+							
+		No					
+		Yes					
+							
+	154	During the worst attack that you can remember:					
+							
+	155	"Did you have skipping, racing, or pounding of your heart?"					
+							
+		No					
+		Yes					
+							
+	156	Did you have sweating or clammy hands?					
+							
+		No					
+		Yes					
+							
+	157	Were you trembling or shaking?					
+							
+		No					
+		Yes					
+							
+	158	Did you have shortness of breath or difficulty breathing?					
+							
+		No					
+		Yes					
+							
+	159	Did you have a choking sensation or lump in your throat?					
+							
+		No					
+		yes					
+							
+	160	"Did you have chest pain, pressure, or discomfort?"					
+							
+		No					
+		Yes					
+							
+	161	"Did you have nausea, stomach problems, or sudden diarrhea?"					
+							
+		No					
+		Yes					
+							
+	162	"Did you feel dizzy, unsteady, lightheaded, or faint?"					
+							
+		No					
+		Yes					
+							
+	163	"Did things around you feel strange, unreal, detached or unfamiliar, or did you feel outside of or detached from part of or all of your body?"					
+							
+		No					
+		Yes					
+							
+	164	Did you fear that you were losing control or going crazy?					
+							
+		No					
+		Yes					
+							
+	165	Did you fear that you were dying?					
+							
+		No					
+		Yes					
+							
+	166	Did you have tingling or numbness in parts of your body?					
+							
+		No					
+		Yes					
+							
+	167	Did you have hot flashes or chills?					
+							
+		No					
+		Yes					
+							
+	168	"ARE BOTH E3 AND 4 OR MORE E4 ANSWERS, CODED YES? IF YES TO E5, SKIP TO E7."					
+							
+		No					
+		Yes (PANIC DISORDER LIFETIME)					
+							
+	169	"IF E5 IS NO, ARE ANY E4 ANSWERS CODED YES?"					
+							
+		No					
+		Yes (LIMITED SYMPTOM ATTACKS LIFETIME)					
+							
+	170	"In the past month, did you have such attacks repeatedly (2 or more) and did you have persistent concern about having another attack, or worry about the consequences of the attacks or did you change your behavior in any way because of the attacks?"					
+							
+		No					
+		Yes (PANIC ATTACKS CURRENT)					
+							
+	171	AGORAPHOBIA					
+							
+	172	"Do you feel anxious or uneasy in places or situations where help might not be available or escape might be difficult, like being in a crowd, standing in a line (queue), when you are alone away from home or alone at home, or when crossing a bridge, or traveling in a bus, train or car or where you might have a panic attack or the panic-like symptoms we just spoke about?"					
+							
+		No					
+		Yes					
+							
+	173	"Do you fear these situations so much that you avoid them, or suffer through them, or need a companion to face them?"					
+							
+		No					
+		Yes (AGORAPHOBIA CURRENT)					
+							
+	174	IS F2 (CURRENT AGORAPHOBIA) CODED YES? And IS E7 (CURRENT PANIC DISORDER) CODED YES?					
+							
+		No					
+		Yes (PANIC DISORDER with AGORAPHOBIA CURRENT)					
+							
+	175	IS F2 (CURRENT AGORAPHOBIA) CODED NO? And IS E7 (CURRENT PANIC DISORDER) CODED YES?					
+							
+		No					
+		Yes (PANIC DISORDER without AGORAPHOBIA CURRENT)					
+							
+	176	IS F2 (CURRENT AGORAPHOBIA) CODED YES? And IS E7 (CURRENT PANIC DISORDER) CODED NO?					
+							
+		No					
+		"Yes (AGORAPHOBIA, CURRENT without history of PANIC DISORDER)"					
+							
+	177	SOCIAL PHOBIA (Social Anxiety Disorder)					
+							
+	178	"In the past month, did you have persistent fear and anxiety at being watched, being the focus of attention, or of being humiliated or embarrassed? This includes things like speaking in public, eating in public or with others, writing while someone watches, or being in social situations."					
+							
+		No					
+		Yes					
+							
+	179	Is this social fear excessive or unreasonable? IS THIS FEAR SO EXCESSIVE YOU'VE CONSIDERED GETTING HELP?					
+							
+		No					
+		Yes					
+							
+	180	"Do these social fears disrupt your normal work, school or social functioning or cause you significant distress?"					
+							
+		No					
+		Yes (Social Anxiety Disorder CURRENT)					
+							
+	181	SUBTYPES					
+		Do you fear and avoid 4 or more social situations?					
+		If YES: Generalized social phobia (social anxiety disorder)					
+		If NO Non-generalized social phobia (social anxiety disorder)					
+							
+		No (Non-generalized Social Phobia)					
+		Yes (Generalized Social Phobia)					
+							
+	182	EXAMPLES OF SUCH SOCIAL SITUATIONS TYPICALLY INCLUDE					
+		"INITIATING OR MAINTAINING A CONVERSATION,"					
+		"PARTICIPATING IN SMALL GROUPS,"					
+		"DATING,"					
+		"SPEAKING TO AUTHORITY FIGURES,"					
+		"ATTENDING PARTIES,"					
+		"PUBLIC SPEAKING,"					
+		"EATING IN FRONT OF OTHERS,"					
+		"URINATING IN A PUBLIC WASHROOM, ETC."					
+		"NOTE TO INTERVIEWER: PLEASE ASSESS WHETHER THE SUBJECT’S FEARS ARE RESTRICTED TO NON-GENERALIZED (“ONLY 1 OR SEVERAL”) SOCIAL SITUATIONS OR EXTEND TO GENERALIZED (“MOST”) SOCIAL SITUATIONS. “MOST” SOCIAL SITUATIONS IS USUALLY OPERATIONALIZED TO MEAN 4 OR MORE SOCIAL SITUATIONS, ALTHOUGH THE DSM-IV DOES NOT EXPLICITLY STATE THIS."					
+							
+	183	OBSESSIVE COMPULSIVE DISORDER					
+							
+	184	"In the past month, have you been bothered by recurrent thoughts, impulses, or images that were unwanted, distasteful, inappropriate, intrusive, or distressing? (For example, the idea that you were dirty, contaminated, or had germs or fear of contaminating others or fear you would act on some impulse, or fear or superstitions that you would be responsible for things going wrong or obsessions with sexual thoughts, images, or impulses or hoarding, collecting, or religious obsessions?"					
+		"DO NOT INCLUDE SIMPLY EXCESSIVE WORRIES ABOUT REAL LIFE PROBLEMS. DO NOT INCLUDE OBSESSIONS DIRECTLY RELATED TO EATING DISORDERS, SEXUAL DEVIATIONS, PATHOLOGICAL GAMBLING OR ALCOHOL OR DRUG ABUSE BECAUSE THE PATIENT MAY DERIVE PLEASURE FROM THE ACTIVITY AND MAY WANT TO RESIST IT ONLY BECAUSE OF ITS NEGATIVE CONSEQUENCES. "					
+							
+		No					
+		Yes					
+							
+	185	Did they keep coming back into your mind even when you tried to ignore or get rid of them?					
+							
+		No					
+		Yes					
+							
+	186	Do you think that these obsessions are the product of your own mind and that they are not imposed from the outside?					
+							
+		No					
+		Yes (OBSESSION)					
+							
+	187	"In the past month, did you do something repeatedly without being able to resist doing it, like washing or cleaning excessively, counting or checking things over and over, or repeating collecting, arranging things, or other superstitious rituals?"					
+							
+		No					
+		Yes (COMPULSION)					
+							
+	188	"At any point, did your recognize that either of these obsessive thoughts or these compulsive behaviors were excessive or unreasonable?"					
+							
+		No					
+		Yes					
+							
+	189	"In the past month, did these obsessive thoughts and/or compulsive behaviors significantly interfere with your normal routine, your work or school, your usual social activities, or relationships, or did they take more than one hour a day?"					
+							
+		No					
+		Yes					
+							
+	190	OCD CURRENT?					
+							
+		No					
+		Yes					
+							
+	191	POSTTRAUMATIC STRESS DISORDER					
+							
+	192	Have you ever experienced or witnessed or had to deal with an extremely traumatic event that included actual or threatened death or serious injury to you or someone else?					
+		"EXAMPLES OF TRAUMATIC EVENTS INCLUDE SERIOUS ACCIDENTS, SEXUAL OR PHYSICAL ASSAULT, A TERRORIST ATTACK, BEING HELD HOSTAGE, KIDNAPPING, FIRE, DISCOVERING A BODY, WAR, OR NATURAL DISASTER, WITNESSING THE VIOLENT OR SUDDEN DEATH OF SOMEONE CLOSE TO YOU, OR A LIFE THREATENING ILLNESS "					
+							
+		No					
+		Yes					
+							
+	193	"Did you respond with intense fear, helplessness, or horror?"					
+							
+		No					
+		Yes					
+							
+	194	"During the past month, have you experienced the event in a distressing way (such as in dreams, intense recollections, flashbacks, or physical reactions) or did you have intense distress when you were exposed to a similar event?"					
+							
+		No					
+		Yes					
+							
+	195	In the past month:					
+							
+	196	Have you avoided thinking about or talking about the event?					
+							
+		No					
+		Yes					
+							
+	197	"Have you avoided activities, places, or people that remind you of the event?"					
+							
+		No					
+		Yes					
+							
+	198	Have you had trouble recalling some important part of what happened?					
+							
+		No					
+		Yes					
+							
+	199	Have you become much less interested in hobbies or social activities?					
+							
+		No					
+		Yes					
+							
+	200	Have you felt detached or estranged from others?					
+							
+		No					
+		Yes					
+							
+	201	Have you noticed that your feelings are numb?					
+							
+		No					
+		Yes					
+							
+	202	Have you felt that your life will be shortened or that you will die sooner than other people?					
+							
+		No					
+		Yes					
+							
+	203	In the past month:					
+							
+	204	Have you had difficulty sleeping?					
+							
+		No					
+		Yes					
+							
+	205	Were you especially irritable or did you have outbursts of anger?					
+							
+		No					
+		Yes					
+							
+	206	Have you had difficulty concentrating?					
+							
+		No					
+		Yes					
+							
+	207	Were you nervous or constantly on your guard?					
+							
+		No					
+		Yes					
+							
+	208	Were you easily startled?					
+							
+		No					
+		Yes					
+							
+	209	ARE 2 OR MORE I5 ANSWERS CODED YES?					
+							
+		No					
+		Yes					
+							
+	210	"During the past month, have these problems significantly interfered with your work, school, or social activities, or caused significant distress?"					
+							
+		No					
+		Yes (POSTTRAUMATIC STRESS DISORDER CURRENT)					
+							
+	211	ALCOHOL DEPENDENCE/ABUSE					
+							
+	212	In the past 12 months have you had 3 or more alcoholic drinks within a 3 hour period on 3 or more occasions?					
+							
+		No					
+		Yes					
+							
+	213	In the past 12 months:					
+							
+	214	Did you need to drink a lot more in order to get the same effect that you got when you first started drinking or did you get much less effect with continued use of the same amount?					
+							
+		No					
+		Yes					
+							
+	215	"When you cut down on drinking did your hands shake, did you sweat or feel agitated? Do you drink to avoid these symptoms (for example, ""the shakes,"" sweating or agitation) or to avoid being hungover? IF YES to any, code YES"					
+							
+		No					
+		Yes					
+							
+	216	"During the times when you drank alcohol, did you end up drinking more than you planned when you started?"					
+							
+		No					
+		Yes					
+							
+	217	Have you tried to reduce or stop drinking alcohol but failed?					
+							
+		No					
+		Yes					
+							
+	218	"On the days that you drank, did you spend substantial time in obtaining alcohol, drinking, or in recovering from the effects of alcohol?"					
+							
+		No					
+		Yes					
+							
+	219	"Did you spend less time working, enjoying hobbies, or being with others because of your drinking?"					
+							
+		No					
+		Yes					
+							
+	220	"If your drinking caused you health or mental problems, did you still keep on drinking?"					
+							
+		No					
+		Yes					
+							
+	221	"IF YES, WE SKIP ABUSE QUESTIONS, AND MOVE TO THE NEXT DISORDER. DEPENDENCE PREEMPTS ABUSE."					
+							
+		No					
+		Yes					
+							
+	222	In the past 12 months:					
+							
+	223	"Have you been intoxicated, high, or hungover more than once when you had other responsibilities at school, at work or at home? Did this cause any problems? (CODE YES ONLY IF THIS CAUSED PROBLEMS)"					
+							
+		No					
+		Yes					
+							
+	224	"Were you intoxicated more than once in any situation where you were physically at risk, for example, driving a car, riding a motorbike, using machinery, boating, etc? (3 OR MORE/TIMES IN THE PAST 12 MONTHS)"					
+							
+		No					
+		Yes					
+							
+	225	"Did you have legal problems more than once because of your drinking, for example, an arrest for disorderly conduct?"					
+							
+		No					
+		Yes					
+							
+	226	"If your drinking caused problems with your family or other people, did you still keep on drinking?"					
+							
+		No					
+		Yes					
+							
+	227	Are 1 or more J3 ANSWERS CODED YES?					
+							
+		No					
+		N/A					
+		Yes (ALCOHOL ABUSE CURRENT)					
+							
+	228	LIFETIME ALCOHOL ABUSE AND DEPENDENCE					
+							
+	229	IF J1 IS YES CODE YES TO THIS QUESTION. Did you ever have you had 3 or more alcoholic drinks within a 3 hour period on 3 or more occasions?					
+							
+		No					
+		Yes					
+							
+	230	Did you need to drink a lot more in order to get the same effect that you got when you first started drinking or did you get much less effect with continued use of the same amount?					
+							
+		No					
+		Yes					
+							
+	231	"When you cut down on drinking did your hands shake, did you sweat or feel agitated? Do you drink to avoid these symptoms (for example, ""the shakes,"" sweating or agitation) or to avoid being hungover? IF YES to any, code YES"					
+							
+		No					
+		Yes					
+							
+	232	"During the times when you drank alcohol, did you end up drinking more than you planned when you started?"					
+							
+		No					
+		Yes					
+							
+	233	Have you tried to reduce or stop drinking alcohol but failed?					
+							
+		No					
+		Yes					
+							
+	234	"On the days that you drank, did you spend substantial time in obtaining alcohol, drinking, or in recovering from the effects of alcohol?"					
+							
+		No					
+		Yes					
+							
+	235	"Did you spend less time working, enjoying hobbies, or being with others because of your drinking?"					
+							
+		No					
+		Yes					
+							
+	236	"IF YES, WE SKIP J6 QUESTIONS, CIRCLE N/A IN THE ABUSE BOX, AND MOVE TO THE NEXT DISORDER. DEPENDENCE PREEMPTS ABUSE."					
+							
+		No					
+		Yes (ALCOHOL DEPENDENCE LIFETIME)					
+							
+	237	"If your drinking caused you health or mental problems, did you still keep on drinking?"					
+							
+		No					
+		Yes					
+							
+	238	In your lifetime:					
+							
+	239	"Have you been intoxicated, high, or hungover more than once when you had other responsibilities at school, at work or at home? Did this cause any problems? (CODE YES ONLY IF THIS CAUSED PROBLEMS)"					
+							
+		No					
+		Yes					
+							
+	240	"Were you intoxicated more than once in any situation where you were physically at risk, for example, driving a car, riding a motorbike, using machinery, boating, etc? (3 OR MORE/TIMES IN THE PAST 12 MONTHS)"					
+							
+		No					
+		Yes					
+							
+	241	"Did you have legal problems more than once because of your drinking, for example, an arrest for disorderly conduct?"					
+							
+		No					
+		Yes					
+							
+	242	"If your drinking caused problems with your family or other people, did you still keep on drinking?"					
+							
+		No					
+		Yes					
+							
+	243	ARE 1 or more J6 ANSWERS CODED YES?					
+							
+		No					
+		N/A					
+		Yes (ALCOHOL ABUSE LIFETIME)					
+							
+	244	NON-ALCOHOL PSYCHOACTIVE SUBSTANCE USE DISORDER					
+							
+	245	Now I am going to show you/read to you a list of street drugs or medicines.					
+							
+	246	"Have you ever taken any of these drugs more than once to get high, to feel elated, to get a ""buzz"" or to change your mood?"					
+							
+		No					
+		Yes					
+							
+	247	SELECT EACH DRUG TAKEN					
+							
+		"Stimulant:: amphetamines, ""speed,"" crystal meth, ""crank,"" ""rush,"" Dexedrine,Ritalin, diet pills."					
+		"Cocaine: snorting, IV, freebase, crack, ""speedball"""					
+		"Narcotics: heroin, morphine, Dilaudid, opium, Demerol, methadone, codeine, Percodan, Darvon OxyContin"					
+		"Hallucinogens:LSD (""acid""), mescaline, peyote, PCP (""Angel Dust,"" ""peace pill,""), psilocybin, STP, ""mushrooms,"" ""ecstasy,"" ""MDA,"" ""MDMA,"" or ketamine (""special K"")."					
+		"Inhalants: ""glue,"" ethyl chloride, ""rush,"" nitrious oxide (""laughing gas""), amyl or butyl nitrate (""poppers"")."					
+		"Marijuana: hashish (""hash""), THC, ""pot,"" ""grass,"" ""weed,"" ""reefer."""					
+		"Tranquilizers:Quaalude, Seconal (""reds"") Valium, Xanax, Librium, Ativan, Dalmane, Halcion, barbituates, Miltown, GHB, Roofinol, ""Roofies."""					
+		"Miscellanous: steriods, nonprescription sleep or diet pills. Any others."					
+							
+	248	Specify MOST USED Drug(s) - ONLY THE MOST USED DRUG CLASS IS INVESTIGATED:					
+							
+		Text Block					
+							
+	249	SPECIFY WHICH DRUG/DRUG CLASS WILL BE EXPLORED IN THE INTERVIEW					
+							
+		Text Block					
+							
+	250	"Consider the (name of drug/drug class selected), in your lifetime:"					
+							
+	251	Did you need to use a lot more in order to get the same effect that you got when you first started using or did you get much less effect with continued use of the same amount?					
+							
+		No					
+		Yes					
+							
+	252	"When you cut down on using (name of drug/drug class selected) did your hands shake, did you sweat or feel agitated? Do you use to avoid these symptoms (for example, ""the shakes,"" sweating or agitation) or to avoid being hungover? IF YES to any, code YES"					
+							
+		No					
+		Yes					
+							
+	253	"During the times when you used (name of drug/drug class selected), did you end up using more than you planned when you started?"					
+							
+		No					
+		Yes					
+							
+	254	Have you tried to reduce or stop using (name of drug/drug class selected) but failed?					
+							
+		No					
+		Yes					
+							
+	255	"On the days that you used, did you spend substantial time in obtaining (name of drug/drug class selected), using, or in recovering from the effects of (name of drug/drug class selected)?"					
+							
+		No					
+		Yes					
+							
+	256	"Did you spend less time working, enjoying hobbies, or being with others because of (name of drug/drug class selected)"					
+							
+		No					
+		Yes					
+							
+	257	"If (name of drug/drug class selected) caused you health or mental problems, did you still keep on using?"					
+							
+		No					
+		Yes					
+							
+	258	"ARE 3 or more K2 ANSWERS CODED YES? IF YES, SKIP K4 QUESTIONS, CIRCLE N/A IN THE ABUSE BOX FOR THIS SUBSTANCE AND MOVE TO THE NEXT DISORDER. DEPENDENCE PREEMPTS ABUSE."					
+							
+		No					
+		Yes (SUBSTANCE DEPENDENCE LIFETIME)					
+							
+	259	SPECIFY DRUG(S):					
+							
+		Text Block					
+							
+	260	"Have you used (most used drug, any drug) in the past 12 months?"					
+							
+		No					
+		Yes					
+							
+	261	In the past 12 months:					
+							
+	262	Did you need to use a lot more in order to get the same effect that you got when you first started using or did you get much less effect with continued use of the same amount?					
+							
+		No					
+		Yes					
+							
+	263	"When you cut down on using (name of drug/drug class selected) did your hands shake, did you sweat or feel agitated? Do you use to avoid these symptoms (for example, ""the shakes,"" sweating or agitation) or to avoid being hungover? IF YES to any, code YES"					
+							
+		No					
+		Yes					
+							
+	264	"During the times when you used (name of drug/drug class selected), did you end up using more than you planned when you started?"					
+							
+		No					
+		Yes					
+							
+	265	Have you tried to reduce or stop using (name of drug/drug class selected) but failed?					
+							
+		No					
+		Yes					
+							
+	266	"On the days that you used, did you spend substantial time in obtaining (name of drug/drug class selected), using, or in recovering from the effects of (name of drug/drug class selected)?"					
+							
+		No					
+		Yes					
+							
+	267	"Did you spend less time working, enjoying hobbies, or being with others because of (name of drug/drug class selected)"					
+							
+		No					
+		Yes					
+							
+	268	"If (name of drug/drug class selected) caused you health or mental problems, did you still keep on using?"					
+							
+		No					
+		Yes					
+							
+	269	ARE 3 or more K2 ANSWERS CODED YES FOR WITHIN PAST 12 MONTHS?					
+							
+		No					
+		Yes					
+							
+	270	ARE K3a and b CODED YES?					
+							
+		No					
+		Yes					
+							
+	271	SPECIFY DRUG(S):					
+							
+		Text Block					
+							
+	272	"Considering your use of (name the drug / drug class selected), in the past 12 months:"					
+							
+	273	"Have you been intoxicated, high, or hungover from (name of drug / drug class selected) more than once, when you had other responsibilities at school, at work, or at home? Did this cause any problem? CODE YES ONLY IF THIS CAUSED PROBLEMS.)"					
+							
+		No					
+		Yes					
+							
+	274	"Have you been high or intoxicated from (name of drug / drug class selected) more than once, in any situation where you were physically at risk, (for example driving a car, riding a motorbike, using machinery, boating, etc.)"					
+							
+		No					
+		Yes					
+							
+	275	"Did you have legal problems more than once, because of your drug use, for example, an arrest or disorderly conduct?"					
+							
+		No					
+		Yes					
+							
+	276	"If (name of drug / drug class selected) caused you health or mental problems, did you keep on using it?"					
+							
+		No					
+		Yes					
+							
+	277	ARE 1 or more K4 ANSWERS CODED YES?					
+							
+		No					
+		N/A					
+		Yes (SUBSTANCE ABUSE CURRENT)					
+							
+	278	SPECIFY DRUG(S):					
+							
+		Text Block					
+							
+	279	CHRONOLOGY: How old were you when you first began having problems with drug use? (age)					
+							
+		Text Block					
+							
+	280	PSYCHOTIC DISORDERS AND MOOD DISORDER WITH PSYCHOTIC FEATURES					
+							
+	281	"ASK FOR AN EXAMPLE OF EACH QUESTION ANSWERED POSITIVELY. CODE YES ONLY IF THE EXAMPLES CLEARLY SHOW A DISTORTION OF THOUGHT OR OF PERCEPTION OR IF THEY ARE NOT CULTURALLY APPROPRIATE. BEFORE CODING, INVESTIGATE WHETHER DELUSIONS QUALIFY AS ""BIZARRE""."					
+		"DELUSIONS ARE ""BIZARRE"" IF: CLEARLY IMPLAUSIBLE, ABSURD, NOT UNDERSTANDABLE, AND CANNOT DERIVE FROM ORDINARY LIFE EXPERIENCE."					
+		"HALLUCINATIONS ARE SCORED ""BIZARRE"" IF: A VOICE COMMENTS ON THE PERSON'S THOUGHTS OR BEHAVIOR, OR WHEN TWO OR MORE VOICES ARE CONVERSING WITH EACH OTHER. THE PURPOSE OF THIS MODULE IS TO EXCLUDE PATIENTS WITH PSYCHOTIC DISORDERS. THIS MODULE NEEDS EXPERIENCE."					
+							
+	282	Now I am going to ask you about unusual experiences that some people have					
+							
+	283	"Have you ever believed that people were spying on you, or that someone was plotting against you, or trying to hurt you? NOTE: ASK FOR EXAMPLES TO RULE OUT ACTUAL STALKING"					
+							
+		No					
+		Yes					
+		Yes - Bizarre					
+							
+	284	If yes or yes-bizarre: do you currently believe these things?					
+							
+		No					
+		Yes					
+							
+	285	"Have you ever believed that someone was reading your mind or could hear your thoughts, or that you could actually read someone's mind or hear what another person was thinking?"					
+							
+		No					
+		Yes					
+		Yes - Bizarre					
+							
+	286	If yes or yes-bizarre: do you currently believe these things?					
+							
+		No					
+		Yes					
+							
+	287	"Have you ever believed that someone or some force outside of yourself put thoughts in your mind that were not your own, or make you act in a way that was not your usual self? Have you ever felt that you were possessed? CLINICIAN, ASK FOR EXAMPLES AND DISCOUNT ANY THAT ARE NOT PSYCHOTIC"					
+							
+		No					
+		Yes					
+		Yes - Bizarre					
+							
+	288	If yes or yes-bizarre: do you currently believe these things?					
+							
+		No					
+		Yes					
+							
+	289	"Have you ever believed that you were being sent special messages through the TV, radio, newspapers, books or magazines, or that a person you did not personally know was particularly interested in you?"					
+							
+		No					
+		Yes					
+		Yes - Bizarre					
+							
+	290	If yes or yes-bizarre: do you currently believe these things?					
+							
+		No					
+		Yes					
+							
+	291	"Have your relatives or friends ever considered any of your beliefs odd or unusual? INTERVIEWER: ASK FOR EXAMPLES. ONLY CODE YES IF THE EXAMPLES ARE CLEARLY DELUSIONAL IDEAS NOT EXPLORED IN QUESTIONS L1 TO L4, FOR EXAMPLE, SOMATIC OR RELIGIOUS DELUSIONS OR DELUSIONS OF GRANDIOSITY, JEALOUSY, GUILD, RUIN, OR DESTITUTION, ETC."					
+							
+		No					
+		Yes					
+		Yes - Bizarre					
+							
+	292	If yes or yes-bizarre: do you currently believe these things?					
+							
+		No					
+		Yes					
+							
+	293	"Have you ever heard things other people said they couldn't hear, such as voices?"					
+							
+		No					
+		Yes					
+							
+	294	IF YES TO VOICE HALLUCINATIONS: was the voice commenting on your thoughts or behavior or did you hear two or more voices talking to each other?					
+							
+		No					
+		Yes - Bizarre					
+							
+	295	IF YES OR YES BIZARRE TO L6: Have you heard sounds/voices in the past month?					
+							
+		No					
+		Yes					
+							
+	296	IF YES TO VOICE HALLUCINATION L6: Was the voice commenting on your thoughts or behavior or did you hear two or more voices talking to each other?					
+							
+		No					
+		Yes - Bizarre					
+							
+	297	Have you ever had visions when you were awake or have you ever seen things other people couldn't see? CLINICIAN: CHECK TO SEE IF THESE ARE CULTURALLY APPROPRIATE.					
+							
+		No					
+		Yes					
+							
+	298	IF YES have you seen these things in the past month?					
+							
+		No					
+		Yes					
+							
+	299	"CLINICIAN'S JUDGMENT: IS THE PATIENT CURRENTLY EXHIBITING INCOHERENCE, DISORGANIZED SPEECH, OR MARKED LOOSENING OF ASSOCIATIONS?"					
+							
+		No					
+		Yes					
+							
+	300	IS THE PATIENT CURRENTLY EXHIBITING DISORGANIZED OR CATATONIC BEHAVIOR?					
+							
+		No					
+		Yes					
+							
+	301	"ARE NEGATIVE SYMPTOMS OF SCHIZOPHRENIA, E.G. SIGNIFICANT AFFECTIVE FLATTENING, POVERTY OF SPEECH (ALOGIA) OR AN INABILITY TO INITIATE OR PERSIST IN GOAL DIRECTED ACTIVITIES (AVOLITION) PROMINENT DURING THE INTERVIEW?"					
+							
+		No					
+		Yes					
+							
+	302	ARE 1 OR MORE <> QUESTIONS FROM L1a to L7 coded YES OR YES BIZARRE AND IS EITHER					
+		"MAJOR DEPRESSIVE EPISODE (CURRENT, RECURRENT OR PAST) OR MANIC OR HYPOMANIC EPISODE (CURRENT OR PAST) CODED YES IF NO TO L11, a. CIRCLE BO IN BOTH MOOD DISORDER WITH PSYCHOTIC FEATURES DIAGNOSTIC BOXES AND MOVE TO L13"					
+							
+		No					
+		Yes					
+							
+	303	You told me earlier that you had period(s) when you felt (depressed/high/persistently irritable) Were the beliefs and experiences you just described SYMPTOMS CODED YES FROML1a TO L17a restricted exclusively to times when you were feeling depressed/high/irritable?					
+		"IF THE PATIENT EVER HAD A PERIOD OF AT LEAST 2 WEEKS OF HAVING THESE BELIEFS OR EXPERIENCES (PSYCHOTIC SYMPTOMS) WHEN THEY WERE NOT DEPRESSED/HIGH/IRRITABLE, CODE NO TO THIS DISORDER"					
+							
+		No					
+		Yes (MOOD DISORDER WITH PSYCHOTIC FEATURES - LIFETIME)					
+							
+	304	ARE 1 OR MORE ((b)) QUESTIONS FROM L1b TO L7b CODED YES OR YES BIZARRE AND IS EITHER					
+		"MAJOR DEPRESSIVE EPISODE(CURRENT) OR MANIC OR HYPOMANIC EPISODE, (CURRENT) CODED YES? IF THE ANSWER IS YES TO THIS DISORDER (LIFETIME OR CURRENT), CIRCLE NO TO L13 AND L14 AND MOVE TO THE NEXT MODULE."					
+							
+		No					
+		Yes (MOOD DISORDER WITH PSYCHOTIC FEATURES - CURRENT)					
+							
+	305	ARE 1 OR MORE ((b)) QUESTIONS FROM L1b TO L6b CODED YES OR YES BIZARRE OR ARE 2 OR MORE ((b)) QUESTIONS FROM L1b TO L10b CODED YES (RATHER THAN YES BIZARRE)?					
+		AND DID AT LEAST TWO OF THE PSYCHOTIC SYMPTOMS OCCUR DURING THE SAME 1 MONTH PERIOD?					
+							
+		No					
+		Yes (PSYCHOTIC DISORDER - CURRENT)					
+							
+	306	IS L13 CODED YES OR ARE 1 OR MORE ((a)) QUESTIONS FROM L1a to L6a CODED YES BIZARRE OR ARE 2 OR MORE ((a)) QUESTIONS FROM L1a to L7a CODED YES (NOT YES BIZARRE)					
+		AND DID AT LEAST TWO OF THE PSYCHOTIC SYMPTOMS OCCUR DURING THE SAME 1 MONTH PERIOD?					
+							
+		No					
+		Yes (PSYCHOTIC DISORDER - LIFETIME)					
+							
+	307	Anorexia Nervosa					
+							
+	308	How tall are you? SPECIFY FEET/INCHES OR CENTIMETERS in box					
+							
+		Text Block					
+							
+	309	What was your lowest weight in the past 3 months? SPECIFY IN LBS. OR KGS. IN BOX					
+							
+		Text Block					
+							
+	310	IS PATIENT'S WEIGHT EQUAL TO OR BELOW THE THRESHOLD CORRESPONDING TO HIS/HER HEIGHT? (SEE TABLE BELOW?					
+							
+		No					
+		Yes					
+							
+	311	In the past 3 months					
+							
+	312	"In spite of this low weight, have you tried not to gain weight?"					
+							
+		No					
+		Yes					
+							
+	313	"Have you intensely feared gaining weight or becoming fat, even though you were underweight?"					
+							
+		No					
+		Yes					
+							
+	314	Have you considered yourself being too big/far or that part of your body was too big/fat?					
+							
+		No					
+		Yes					
+							
+	315	Has your ody weight or shape greatly influenced how you felt about yourself?					
+							
+		No					
+		Yes					
+							
+	316	Have you thought that your current low body weight was normal or excessive?					
+							
+		No					
+		Yes					
+							
+	317	**clinician should not have to answer this question ARE 1 OR MORE ITEMS FROM M4 CODED YES?					
+							
+		No					
+		Yes					
+							
+	318	"FOR WOMEN ONLY (leave blank for men) During the last 13 months, did you miss all your menstrual periods when they were expected to occur (when you were not pregnant)?"					
+							
+		No					
+		Yes					
+							
+	319	FOR WOMEN: ARE M5 AND M6 CODED YES? FOR MEN: IS M5 CODED YES? 					
+							
+		No					
+		Yes (Anorexia Nervosa - Current)					
+							
+	320	Bulimia Nervosa					
+							
+	321	"In the past three months, did you have eating binges or times when you ate a very large amount of food within a 2-hour period?"					
+							
+		No					
+		Yes					
+							
+	322	"In the past 3 months, did you have eating binges as often as twice a week?"					
+							
+		No					
+		Yes					
+							
+	323	"During these binges, did you feel that your eating was out of control?"					
+							
+		No					
+		Yes					
+							
+	324	"Did you do anything to compensate for, or to prevent a weight gain from these binges, like vomiting, fasting, exercising or taking laxatives, enemas, diuretics (fluid pills), or other medications?"					
+							
+		No					
+		Yes					
+							
+	325	Does your body weight or shape greatly influence how you feel about yourself?					
+							
+		No					
+		Yes					
+							
+	326	DOES THE PATIENT'S SYMPTOMS MEET CRITERIA FOR ANOREXIA NERVOSA?					
+							
+		No					
+		Yes					
+							
+	327	INTERVIEWERE: WRITE IN THE BOX BLOW THE THRESHOLD WEIGHT FOR THIS PATIENT'S HEIGHT/WEIGHT TABLE IN THE ANOREXIA/NERVOSA MODULE					
+							
+		Text Block					
+							
+	328	Do these binges occur only when you are under (the above ____lbs/kgs)?					
+							
+		No					
+		Yes					
+							
+	329	**clinician should not have to answer this question IS N5 CODED YES AND IS EITHER N6 OR N7 CODED NO?					
+							
+		No					
+		Yes (BULIMIA NERVOSA - CURRENT)					
+							
+	330	**clinician should not have to answer this question IS N7 CODED YES?					
+							
+		No					
+		Yes (Anorexia Nervosa Binge Eating/Purging Type Current)					
+							
+	331	Generalized Anxiety Disorder					
+							
+	332	"Were you excessively anxious or worried about several routine things, over the past 6 months? IS THIS FEAR SO EXCESSIVE YOU'VE CONSIDERED GETTING HELP?"					
+							
+		No					
+		Yes					
+							
+	333	"Are these anxieties and worries present most days? ARE THE PATIENT'S ANXIETY AND WORRIES RESTRICTED EXCLUSIVELY TO, OR BETTER EXPLAINED BY, ANY DISORDER PRIOR TO THIS POINT?"					
+							
+		No					
+		Yes					
+							
+	334	Do you find it difficult to control the worries?					
+							
+		No					
+		Yes					
+							
+	335	"FOR THE FOLLOWING, CODE NO IF THE SYMPTOMS ARE CONFINED TO FEATURES OF ANY DISORDER EXPLORED PRIOR TO THIS POINT. When you were anxious over the past 6 months did you, most of the time:"					
+							
+	336	"Feal restless, keyed up or on edge?"					
+							
+		No					
+		Yes					
+							
+	337	Have muscle tension?					
+							
+		No					
+		Yes					
+							
+	338	"Feel tired, or exhausted easily?"					
+							
+		No					
+		Yes					
+							
+	339	Have difficulty concentrating or finding your mind going blank?					
+							
+		No					
+		Yes					
+							
+	340	Feel irritable?					
+							
+		No					
+		Yes					
+							
+	341	"Have difficulty sleeping (difficulty falling asleep, waking up int eh middle of the night, early morning wakening or sleeping excessively?"					
+							
+		No					
+		Yes					
+							
+	342	"Do these anxieties and worries disrupt your normal work, school or social functioning or cause you significant distress?"					
+							
+		No					
+		Yes (GENERALIZED ANXIETY DISORDER - CURRENT)					
+							
+	343	"RULE OUT MEDICAL, ORGANIC, OR DRUG CAUSES FOR ALL DISORDERS IF THE PATIENT CODES POSITIVE FOR ANY CURRENT DISORDER, ASK Just before these symptoms began:"					
+							
+	345	Were you taking any drugs or medicines?					
+							
+		No					
+		Yes					
+							
+	346	"Did you have any medical illness? IN THE CLINICIAN'S JUDGEMENT, ARE EITHER OF THESE LIKELY TO BE DIRECT CAUSES OF THE PATIENT'S DISORDER? IF NECESSARY, ASK ADDITIONAL OPEN ENDED QUESTIONS."					
+							
+		No					
+		Yes					
+							
+	347	SUMMARY: HAS AN ORGANIC CAUSE BEEN RULED OUT?					
+							
+		No					
+		Yes					
+		Uncertain					
+							
+	348	Antisocial Personality Disorder (optional)					
+							
+	349	Before you were 15 years old did you:					
+							
+	350	repeatedly skip school or run away from home overnight?					
+							
+		Yes					
+		No					
+							
+	351	"repeatedly lie, cheat, ""con"" others, or steal?"					
+							
+		No					
+		Yes					
+							
+	352	"start fights or bully, threaten, or intimidate others?"					
+							
+		No					
+		Yes					
+							
+	353	deliberately destroy things or start fires?					
+							
+		Yes					
+		No					
+							
+	354	deliberately hurt animals or people?					
+							
+		Yes					
+		No					
+							
+	355	force someone to have sex with you?					
+							
+		No					
+		Yes					
+							
+	356	DO NOT CODE YES TO THE BEHAVIORS BELOW IF THEY ARE EXCLUSIVELY POLITICALLY OR RELIGIOUSLY MOTIVATED. Since you were 15 years old have you:					
+							
+	357	"repeatedly behaved in a way that others would consider irresponsible, like failing to pay for things you owed, deliberately being impulsive or deliberately not working to support yourself?"					
+							
+		No					
+		Yes					
+							
+	358	"done things that are illegal even if you didn't get caught (for example, destroying property, shoplifting, stealing, selling drugs, or committing a felony)?"					
+							
+		No					
+		Yes					
+							
+	359	been in physical fights repeatedly (including physical fights with your spouse or children)?					
+							
+		No					
+		Yes					
+							
+	360	"often lied or ""conned"" other people to get money or pleasure, or lied just for fun?"					
+							
+		No					
+		Yes					
+							
+	361	exposed others to danger without caring?					
+							
+		No					
+		Yes					
+							
+	362	"felt no guilt: after huring, mistreating, lying to, or stealing from others, or after damaging property"					
+							
+		No					
+		Yes					
+							
+	363	ARE 3 OR MORE P2 QUESTIONS CODED YES?					
+							
+		No					
+		Yes (ANTISOCIAL PERSONALITY DISORDER - LIFETIME)					
+							
+	364	THIS CONCLUDES THE INTERVIEW					

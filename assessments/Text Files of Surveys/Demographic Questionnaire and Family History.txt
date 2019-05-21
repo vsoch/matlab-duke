@@ -1,0 +1,169 @@
+1. "Sex: 
+
+Male
+Female
+	
+2. Age:
+
+CHANGE ME TO TEXT BOX
+
+3. DOB:
+
+NEED TO CHANGE ME TO TEXT BOX
+
+4. Racial categories: 
+
+Caucasian/white
+African American/Black
+Asian
+Native American
+Bi- or multiracial, specify below
+Other, specify below
+
+5. If bi, multiracial, or other please specify:"
+
+6. Are you of Hispanic or Latino descent?
+
+Yes
+No
+
+7. What is your current marital status? 
+
+Married/living with partner
+Widowed 
+Separated
+Divorced
+Single
+
+8. Total Family Income (before taxes; including your income and your spouse or partner's income):
+
+Less than $10,000/year or $0-833/month"
+$10,000-14,999/year or $834-1249/month"
+$15,000-24,999/year or $1250-2083/month"
+$25,000-34,999/year or $2084-2916/month"
+$35,000-49,999/year or $2917-4166/month"
+$50,000-64,999/year or $4167-5416/month"
+$65,000-79,999/year or $5417-6666/month"
+$80,000-94,999/year or $6667-7916/month"
+$95,000-109,999/year or $7917-9167/month"
+$110,000-124,999/year or $9168-10,416/month"
+$125,000-139,999/year or $10,417-11,666/month"
+$140,000-154,999/year or $11,667-12,916/month"
+$155,000-169,999/year or $12,917-14,166/month"
+$170,000-185,000/year or $14,167-15,416/month"
+More than $185,000/year or more than $15,417/month"
+
+9. Think of this ladder as representing where the people stand in the United States. At the TOP of the ladder are the people who are best off--those who have the most money, the most education, and the most respected jobs. "
+At the BOTTOM are the people who are worst off --who have the least money, the least education, and the least respected jobs or no job. The higher up you are on this ladder, the closer you are to the people at the very top. The lower you are, the closer you are to the people at the very bottom."
+Where would you place yourself on this ladder, compared to all the other people in the United States? Please select the number that you think represents the rung where you stand."
+(0-10, 0 = lowest, 10 = highest)
+
+10. Think of this ladder as representing where the people stand in your community. People define community in different ways; please define it in whatever way is most meaningful to you. Imagine everyone in your community is standing somewhere on this ladder. At the TOP of the ladder are the people who have the highest standing in your community? 
+At the BOTTOM are the people who have the lowest standing in your community. The higher up you are on this ladder, the closer you are to those at the very top. The lower you are, the closer you are to those at the very bottom."
+Where would you place yourself on this ladder, compared to others in your community? Please select the number that you think represents the rung where you stand."
+(0-10, 0 = lowest, 10 = highest)
+
+11. Think of this ladder as representing a person's status within his or her community. By community we mean friends, family, neighbors and coworkers. At the TOP of the ladder are the people who have the highest standing in their community? At the BOTTOM are the people who have the lowest standing in their community. The higher up you are on this ladder, the closer you are to those at the very top. The lower you are, the closer you are to those at the very bottom."
+At the BOTTOM are the people who have the lowest standing in their community. The higher up you are on this ladder, the closer you are to those at the very top. The lower you are, the closer you are to those at the very bottom."
+Where, during your childhood and adolescence, would you have placed your FATHER on this ladder relative to other people in your parents' community? Please, select the rung where you think your FATHER stood during your childhood and adolescence, relative to other people in your community."
+(0-10, 0 = lowest, 10 = highest)"
+
+12 Think of this ladder as representing a person's status within his or her community. By community we mean friends, family, neighbors and coworkers. At the TOP of the ladder are the people who have the highest standing in their community? "
+At the BOTTOM are the people who have the lowest standing in their community. The higher up you are on this ladder, the closer you are to those at the very top. The lower you are, the closer you are to those at the very bottom."
+Where, during your childhood and adolescence, would you have placed your MOTHER on this ladder relative to other people in your parents' community? Please, select the rung where you think your MOTHER stood during your childhood and adolescence, relative to other people in your community."
+(0-10, 0 = lowest, 10 = highest)"
+
+13. Think of this ladder as representing where people stand in the United States. At the top of the ladder are the people who have the most money, most education and most respected jobs."
+At the bottom are the people who have the least money, least education and least respected jobs or no job. The higher up you are on this ladder, the close you are to the people at the very top, and the lower you are, the closer you are to the people at the very bottom."
+Where, during your childhood and adolescence, would you have placed your FATHER on this ladder relative to other people in the United States? Please, select the rung where you think your FATHER stood during your childhood and adolescence, relative to other people in the United States."
+(0-10, 0 = lowest, 10 = highest)"
+
+14. Think of this ladder as representing where people stand in the United States. At the top of the ladder are the people who have the most money, most education and most respected jobs. "
+At the bottom are the people who have the least money, least education and least respected jobs or no job. The higher up you are on this ladder, the close you are to the people at the very top, and the lower you are, the closer you are to the people at the very bottom."
+Where, during your childhood and adolescence, would you have placed your MOTHER on this ladder relative to other people in the United States? Please, select the rung where you think your MOTHER stood during your childhood and adolescence, relative to other people in the United States."
+(0-10, 0 = lowest, 10 = highest)"
+
+15. If currently employed, how many hours a week do/did you work (Count all jobs if you work at more than one place)?
+
+16. Full time or part time
+
+Full time
+Part time
+
+17. How many people currently live in your house, apartment, or dorm room?"
+
+INSERT TEXT BOX HERE
+
+18. Do you OWN a working motor vehicle (car, truck, van, SUV, motorcycle) now?
+
+Yes
+No
+
+19. During the last year did you take an out-of-town vacation?
+
+Yes
+No
+
+20. Do you have a daily newspaper deliered to your home or watch news daily on the TV or the internet? (1 - yes, 2 - no)"
+
+21. During the last year, did you have a dental check-up?
+
+Yes
+No
+
+22. Compared to others your age, would you say your health is: 
+
+Excellent
+Very Good
+Good
+Fair
+Poor
+
+23. Approximately how many books do you read a year? 
+
+none
+1-2 per year
+3-4 per year
+4 or more)"
+
+24. Were you adopted (legally)?
+
+Yes
+No
+
+25. How old were you when you were adopted?
+	
+INSERT TEXT BOX HERE
+
+26. Were you adopted by a member of your biological family (e.g. aunt, grandparent, etc.)?
+
+Yes
+No
+
+27. What was the relationship of the person(s) who adopted you?
+
+INSERT TEXT BOX HERE
+
+28. Were you adopted (informally), that is, raised by someone other than your biological parents?
+
+Yes
+No
+
+29. How old were you when you were informally adopted?
+
+INSERT TEXT BOX HERE
+
+30. Were you adopted by a member of your biological family?
+
+Yes
+No
+
+31. What was the relationship of the person(s) who adopted you?
+
+INSERT TEXT BOX HERE
+
+32. Were your parents married (or living together as partners) when you were born or at any time when you were growing up? 
+
+yes, married
+yes, lived together as partners
+no

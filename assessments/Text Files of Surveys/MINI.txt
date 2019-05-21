@@ -1,0 +1,131 @@
+1. Patient Name:
+
+TEXT BOX HERE
+
+2. Patient Number:
+
+TEXT BOX HERE
+
+3. Date of Birth:
+
+TEXT BOX HERE
+
+4. Interviewer's Name:
+
+TEXT BOX HERE
+
+5. Date of Interview:
+
+TEXT BOX HERE
+
+6. Time Interview Began:
+
+TEXT BOX HERE
+
+7. Time Interview Ended:
+
+TEXT BOX HERE
+
+8. Total Time:
+
+TEXT BOX HERE
+
+9. Have you ever been depressed or down, most of the day, nearly every day, for two weeks?
+
+Yes
+No
+
+10. Have you ever been much less interested in most things or much less able to enjoy the things you used to enjoy most of the time?
+
+Yes 
+No
+
+11. Over that two week period, when you felt depressed or uninterested, was your appetite significantly decreased or increased nearly every day? 
+
+Yes
+No
+
+12. Did your weight decrease or increase without trying intentionally (i.e., by ±5% of body weight or ±8 lbs. or ±3.5 kgs., for a 160 lb./70 kg. person in a month)?
+
+Yes
+No
+
+13. Are the symptoms due entirely to the loss of a loved one (bereavement) and are they similar in severity, level of impairment, and duration to what most others would suffer under similar circumstances? If so, this is uncomplicated bereavement.
+
+Yes
+No
+
+14. Has uncomplicated bereavement been ruled out?
+
+Yes
+No
+
+15. Were you taking any drugs or medicines just before these symptoms began? Did you have any medical illness just before these symptoms began? In the clinician’s judgment: are either of these likely to be direct causes of the patient's depression?
+
+Yes
+No
+
+16.RECORD ANY MEDICATIONS OR ILLNESSES.
+
+TEXT BOX HERE
+
+17. Has an organic cause been ruled out?
+
+Yes
+No
+
+18. During your lifetime, did you have other episodes of two weeks or more when you felt depressed or uninterested in most things, and had most of the problems we just talked about?
+
+Yes
+No
+
+19. In between 2 episodes of depression, did you ever have an interval of at least 2 months, without any depression or any significant loss of interest? BETWEEN EACH EPISODE THERE MUST BE AT LEAST 2 MONTHS WITHOUT  SIGNIFICANT DEPRESSION.
+
+Yes
+No
+
+20. How many episodes of depression did you have in your lifetime? 
+
+INSERT TEXT BOX
+
+21. During the most severe period of the current depressive episode, did you lose almost completely your ability to enjoy nearly everything?
+
+Yes
+No
+
+22. During the most severe period of the current depressive episode, did you lose your ability to respond to things that previously gave you pleasure, or cheered you up? 
+
+Yes
+No
+
+23. Over the past two week period, when you felt depressed and uninterested:
+
+24. Did you feel depressed in a way that is different from the kind of feeling you experience when someone close to you dies?
+
+Yes
+No
+
+25. Did you feel regularly worse in the morning, almost every day?
+
+Yes
+No	
+
+26. Did you wake up at least 2 hours before the usual time of awakening and have difficulty getting back to sleep, almost every day?
+
+Yes
+No
+
+27. Is A3c coded yes (PSYCHOMOTOR retardation or agitation)?	
+
+Yes
+No	
+
+28. Is A3a coded yes for anorexia or weight loss?
+
+Yes
+No	
+
+29. Did you feel excessive guilt or guilt out of proportion to the reality of the situation?	
+
+Yes
+No

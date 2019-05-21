@@ -1,0 +1,163 @@
+33. "Did your parents ever get separated or divorced? (Not including temporary separations)
+
+Yes
+No
+
+34. How old were you when your parents separated or divorced?
+
+INSERT TEXT BOX HERE
+
+35. "How often did your parents argue when you were 5 years old? 
+
+Never
+Some of the time
+Most of the time
+All of the time
+Don't know
+
+36. "How often did your parents argue when you were 10 years old? 
+
+Never
+Some of the time
+Most of the time
+All of the time
+Don't know
+
+37. "How often did your parents argue when you were 15 years old? 
+
+Never
+Some of the time
+Most of the time
+All of the time
+Don't know
+
+38. "Is your biological father deceased? (This refers to your biological parent even if he was not your custodial parent)"
+
+Yes
+No
+
+39. How old were you when he died?
+
+INSERT TEXT BOX HERE
+
+40. How old was your father when he died?
+
+INSERT TEXT BOX HERE
+
+41. What was the cause of his death?
+
+INSERT TEXT BOX HERE
+
+42. How many years did your FATHER (or STEPFATHER or MALE GUARDIAN) attend school before you turned 18 years old?  1-12=Grade School-High School; 13-16=Undergraduate; 17-24+=Post Graduate?
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+
+43. "Education level (select HIGHEST level FATHER, STEPFATHER or MALE GUARDIAN achieved/completed before you turned 18):"
+
+No HS diploma
+GED
+HS Diploma
+Technical training
+Some college no degree
+Associate degree
+Bachelor's degree
+Master's degree
+MD/PhD/JD/PharmD
+Unknown
+
+44. "What was your father's (or if applicable, stepfather or male guardian) occupation when you were 5 years old?"
+
+INSERT TEXT BOX
+
+45. "What was your father's (or if applicable, stepfather or male guardian) occupation when you were 10 years old"
+
+INSERT TEXT BOX
+
+46. "What was your father's (or if applicable, stepfather or male guardian) occupation when you were 15 years old, be specific?"
+
+INSERT TEXT BOX
+
+47. "Do the previous 5 questions refer to your biological father?
+
+Yes
+No
+
+48. "Is your biological mother deceased? (This refers to your biological parent even if he was not your custodial parent)
+
+Yes
+No
+
+49. How old were you when she died?
+
+INSERT TEXT BOX
+
+50. How old was your father when she died?
+
+INSERT TEXT BOX
+
+51. What was the cause of her death?
+
+INSERT TEXT BOX
+
+52. How many years did your MOTHER (or STEPMOTHER or FEMALE GUARDIAN) attend school before you turned 18 years old ? 1-12=Grade School-High School; 13-16=Undergraduate; 17-24+=Post Graduate?
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+
+55. "Education level (select HIGHEST level MOTHER, STEPMOTHER or FEMALE GUARDIAN achieved/completed before you turned 18):"
+
+No HS diploma
+GED
+HS Diploma
+Technical training
+Some college no degree
+Associate degree
+Bachelor's degree
+Master's degree
+MD/PhD/JD/PharmD
+Unknown

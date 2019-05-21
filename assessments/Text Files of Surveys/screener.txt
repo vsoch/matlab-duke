@@ -1,0 +1,594 @@
+1. Thank you for your interest in participating in our study. Our experiment involves two sessions; the first will consist of behavioral testing only and the second will involve an fMRI scan and blood draw. The fMRI scanner is a large enclosed tube that uses magnetic fields to take images of your brain. To determine if you qualify, we are going to ask you a series of questions. Please read each question carefully before answering.
+
+2. Are you claustrophobic or would you have a problem lying still for an hour?
+
+No
+Yes
+
+3. Do you have any problems giving blood?
+
+No
+Yes
+
+4. Some of the following items may be hazardous to your safety or may interfere with the MRI examination. Do you have any of the following: 
+
+5. Cardiac pacemaker or defibrilator
+
+No
+Yes
+
+6. Insulin or infusion pump
+
+No
+Yes
+
+7. Cochlear, otologic, or ear implant
+
+No
+Yes
+
+8. Hearing aid
+
+No
+Yes
+
+9. Any implanted metal (e.g. clamps, valves, clips, shunts, catheters?)
+
+No
+Yes
+
+10. Body piercing(s)
+
+No
+Yes
+
+11. Tattoos or permanent makeup (e.g. eyeliner, lips)
+
+No
+Yes
+
+12. Artificial limbs or prosthetics
+
+No
+Yes
+
+13. Bone/joint pin, screw, nail, wire or plate
+
+No
+Yes
+
+14. Wire sutures or surgical staples
+
+No
+Yes
+
+15. Any implant held in place by a magnet (e.g. dental)
+
+No
+Yes
+
+16. Transdermal delivery system (Nitro)
+
+No
+Yes
+
+17. Tissue expanders (plastic surgery)
+
+No
+Yes
+
+18. Colored contact lenses
+
+No
+Yes
+
+19. Any metal fragments (e.g. shrapnel)
+
+No
+Yes
+
+20. Others:
+
+Text Block
+
+21. Please list any surgeries or other invasive medical procedures:
+
+Text Block
+
+22. Are you currently taking or have you recently taken any medication or supplements?
+
+No
+Yes
+
+23. If you take any of the following medications, please indicate how frequently you take them:
+
+24. Diuretic
+
+No
+Daily
+As needed
+
+25. Beta blocker
+
+No
+Daily
+As needed
+
+26. Calcium channel blocker
+
+No
+Daily
+As needed
+
+27. Ace inhibitor/ARB
+
+No
+Daily
+As needed
+
+28. Nitrates
+
+No
+Daily
+As needed
+
+29. Cardiac glycosides
+
+No
+Daily
+As needed
+
+30. Central sympatholyic (for hypertension)
+
+No
+Daily
+As needed
+
+31. Anti-arrhythmic
+
+No
+Daily
+As needed
+
+32. Vasodilator
+
+No
+Daily
+As needed
+
+33. Potassium
+
+No
+Daily
+As needed
+
+34. Anticoagulants
+
+No
+Daily
+As needed
+
+35. Anti-anxiety
+
+No
+Daily
+As needed
+
+36. Anticonvulsants
+
+No
+Daily
+As needed
+
+37. Sleeping medication (e.g. trazadone)
+
+No
+Daily
+As needed
+
+38. Antihistamine, nonsedating
+
+No
+Daily
+As needed
+
+39. Antihistamine, sedating
+
+No
+Daily
+As needed
+
+40. Cold remedies
+
+No
+Daily
+As needed
+
+41. Asthma oral medications
+
+No
+Daily
+As needed
+
+42. Asthma/allergy inhalants
+
+No
+Daily
+As needed
+
+43. Thyroid supplement
+
+No
+Daily
+As needed
+
+44. Antithyroid
+
+No
+Daily
+As needed
+
+45. ERT: estrogen
+
+No
+Daily
+As needed
+
+46. EPRT: estrogen and progesterone
+
+No
+Daily
+As needed
+
+47. Oral contraceptive
+
+No
+Daily
+As needed
+
+48. PRT: progesterone
+
+No
+Daily
+As needed
+
+49. Anti-ulcer medication
+
+No
+Daily
+As needed
+
+50. Antacid
+
+No
+Daily
+As needed
+
+51. Laxative, stool softener/bulk fiber
+
+No
+Daily
+As needed
+
+52. Simethicone, colace, or pericolace
+
+No
+Daily
+As needed
+
+53. Antispasmotic
+
+No
+Daily
+As needed
+
+54. Anti-reflux
+
+No
+Daily
+As needed
+
+55. Weight loss (prescription) and Ephedrine (over the counter)
+
+No
+Daily
+As needed
+
+56. Aspirin
+
+No
+Daily
+As needed
+
+57. NSAID
+
+No
+Daily
+As needed
+
+58. Muscle relaxtant
+
+No
+Daily
+As needed
+
+59. Anti-gout
+
+No
+Daily
+As needed
+
+60. Antioxidant supplements (e.g. vitamins A, C, or E, selenium, CoQ10, OPC3, pycogenol, pine park, folic acid, querceti, Isoflavomide, alpha lipoic acid)
+
+No
+Daily
+As needed
+
+61. Other vitamins (e.g. B, D, Dermavit, Prime Vitamin, MVI)
+
+No
+Daily
+As needed
+
+62. Antibiotics
+
+No
+Daily
+As needed
+
+63. Acetaminophen
+
+No
+Daily
+As needed
+
+64. Statins
+
+No
+Daily
+As needed
+
+65. Antipsychotics/tranquilizers
+
+No
+Daily
+As needed
+
+66. Narcotics/analgesics
+
+No
+Daily
+As needed
+
+67. Glucocorticoids
+
+No
+Daily
+As needed
+
+68. Hypoglycemic meds
+
+No
+Daily
+As needed
+
+69. Anti-Parkinson's
+
+No
+Daily
+As needed
+
+70. ETRT: estrogen and testosterone
+
+No
+Daily
+As needed
+
+71. Dietary supplements (e.g. ginko, ginseng, 5-HTP, SAMe, melatonin, acetl-L-carnitine, kava kava, Inositol, phenylaline, DMEA)
+
+No
+Daily
+As needed
+
+72. Other cholesterol lowering supplements (red yeast, soy, benechol, psyllin fiber, policosanol)
+
+No
+Daily
+As needed
+
+73. Anti-migraine/anti-cluster headache, 5HT agonist
+
+No
+Daily
+As needed
+
+74. Unclassified prescriptions (biophosphonate)
+
+No
+Daily
+As needed
+
+75. Other prescription drugs (Acoylovir, Accutane)
+
+No
+Daily
+As needed
+
+76. Propecia, asulfadine, viagra, quinine
+
+No
+Daily
+As needed
+
+77. Antivert, compazine
+
+No
+Daily
+As needed
+
+78. Antabuse
+
+No
+Daily
+As needed
+
+79. SERM (tomoxifen, evista)
+
+No
+Daily
+As needed
+
+80. Other reproductive hormones (FERT, clomid, lupron, metrodin, serophene)
+
+No
+Daily
+As needed
+
+81. Protease inhibitors
+
+No
+Daily
+As needed
+
+82. Other anti-HIV
+
+No
+Daily
+As needed
+
+83. Anti-manic
+
+No
+Daily
+As needed
+
+84. Other CNS prescriptions
+
+No
+Daily
+As needed
+
+85. St. John's Wort
+
+No
+Daily
+As needed
+
+86. Immunosuppressants (imuran, methotrexate, cyclophosphamide)
+
+No
+Daily
+As needed
+
+87. Insulin
+
+No
+Daily
+As needed
+
+88. Irritable bowel syndrome drugs
+
+No
+Daily
+As needed
+
+89. Fibrate medications (Tricor, gemfibrozil, Lopid)
+
+No
+Daily
+As needed
+
+90. Other cholesterol lowering medications (non-statin, non-fibrate)
+
+No
+Daily
+As needed
+
+91. Niacin (cholesterol lowering supplement; Nicomide, Niaspan)
+
+No
+Daily
+As needed
+
+92. Fish oil (cod liver oil, salmon oil, omega-3 oil)
+
+No
+Daily
+As needed
+
+93. Short-chain omega-3 oils (flaxseed oil, essential fatty oils)
+
+No
+Daily
+As needed
+
+94. Pcynogenol, GLA/gammalinolenic, evening primrose, borage oil
+
+No
+Daily
+As needed
+
+95. Do you have anemia, sickle cell anemia, or any other diseases that affect your blood?
+
+No
+Yes
+
+96. If yes, please describe
+
+Text block
+
+97. Do you have a history of stroke, seizures, brain tumor, head trauma, or other neurological disorder?
+
+No
+Yes
+
+98. If yes, please describe
+
+Text block
+
+99. Are you currently seeing or have you ever seen a mental health professional such as a psychiatrist, psychologist, clinical social worker, or psychotherapist?
+
+No
+Yes
+
+100. If yes, when and for what problems?
+
+Text block
+
+101. If yes, are you currently taking medication for these or other problems?
+
+Text Block
+
+102. Have you been treated at an inpatient facility for a psychiatric illness?
+
+No
+Yes
+
+103. If yes, please describe
+
+Text block
+
+104. Do you have a breathing disorder (e.g. asthma, apnea) or heart condition?
+
+No
+Yes
+
+105. Are you claustrophobic?
+
+No
+Yes
+
+106. Do you have an Intra-Uterine Device or diaphragm containing metal?
+
+No
+Yes
+
+107. Are you pregnant, experiencing a late menstrual period, or undergoing fertility treatment?
+
+No
+Yes
+
+108. Do you currently have a fever or other acute illness?
+
+No
+Yes

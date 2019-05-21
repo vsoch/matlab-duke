@@ -1,0 +1,17 @@
+
+http://dukedpn.qualtrics.com/SE?SID=SV_eajfAQaw3MGpD1O&SVID=Prod   NEO-PIR
+
+
+http://dukedpn.qualtrics.com/SE?SID=SV_0MRXqVvZztZRKxC&SVID=Prod   BPAQ
+
+http://dukedpn.qualtrics.com/SE?SID=SV_5dn7ksLOmazsEeg&SVID=Prod   BFNE
+
+http://dukedpn.qualtrics.com/SE?SID=SV_bdXymmnpCxs34kQ&SVID=Prod   MASQ
+
+http://dukedpn.qualtrics.com/SE?SID=SV_3azKilmG3FOJ7Kc&SVID=Prod   STAI-T
+
+http://dukedpn.qualtrics.com/SE?SID=SV_elJYsA4M3VjDJCA&SVID=Prod   STAXI
+
+http://dukedpn.qualtrics.com/SE?SID=SV_8dchFeh2TbWFDKI&SVID=Prod   Loneliness Scale
+
+

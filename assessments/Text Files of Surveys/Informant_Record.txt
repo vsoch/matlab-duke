@@ -1,0 +1,75 @@
+1. We are asking permission to send a short questionnaire to someone nominated by you who knows you well. We would like the names of three people who know you well to get a more rounded view of you. These people could be a partner, a sibling, a friend, a parent, an employer, or anyone who you think knows you well. We will send them a questionnaire along with a letter that briefly explains the history of the Duke Neurogenetics Study."
+
+2. Subject Name:
+
+Text Block
+
+3. Subject ID:
+
+Text Block
+
+4. Informant 1
+
+Name:
+
+Text Block
+
+5. Address
+
+Text Block
+
+6. Phone (include area code) :
+
+Text Block
+
+7. Email:
+
+Text Block
+
+8. Relationship of this person to you (e.g. partner, friend, etc.):
+
+Text Block
+
+9. Informant 2
+
+10. Name:
+
+Text Block
+
+11. Address
+
+Text Block
+
+12. Phone (include area code) :
+
+Text Block
+
+13. Email:
+
+Text Block
+
+14. Relationship of this person to you (e.g. partner, friend, etc.):
+
+Text Block
+
+15. Informant 3
+
+16. Name:
+
+Text Block
+
+17. Address
+
+Text Block
+
+18. Phone (include area code) :
+
+Text Block
+
+19. Email:
+
+Text Block
+
+20. Relationship of this person to you (e.g. partner, friend, etc.):
+
+Text Block

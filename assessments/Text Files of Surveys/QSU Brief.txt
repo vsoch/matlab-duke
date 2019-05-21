@@ -1,0 +1,98 @@
+1.I have a desire for a cigarette right now.
+1 - Strongly Disagree
+2
+3
+4
+5
+6
+7 - Strongly Agree
+
+2.Nothing would be better than smoking a cigarette right now.
+
+1 - Strongly Disagree
+2
+3
+4
+5
+6
+7 - Strongly Agree
+
+3. If it were possible, I probably would smoke now.
+
+1 - Strongly Disagree
+2
+3
+4
+5
+6
+7 - Strongly Agree
+
+4. I could control things better right now if I could smoke.
+
+1 - Strongly Disagree
+2
+3
+4
+5
+6
+7 - Strongly Agree
+
+5. All I want right now is a cigarette.
+
+1 - Strongly Disagree
+2
+3
+4
+5
+6
+7 - Strongly Agree
+
+6. I have an urge for a cigarette.
+
+1 - Strongly Disagree
+2
+3
+4
+5
+6
+7 - Strongly Agree
+
+7. A cigarette would taste good now.
+
+1 - Strongly Disagree
+2
+3
+4
+5
+6
+7 - Strongly Agree
+
+8. I would do almost anything for a cigarette now.
+
+1 - Strongly Disagree
+2
+3
+4
+5
+6
+7 - Strongly Agree
+
+9.Smoking would make me less depressed.
+
+1 - Strongly Disagree
+2
+3
+4
+5
+6
+7 - Strongly Agree
+
+10. I am going to smoke as soon as possible.
+
+1 - Strongly Disagree
+2
+3
+4
+5
+6
+7 - Strongly Agree

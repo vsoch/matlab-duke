@@ -1,0 +1,172 @@
+1. During the past month, when have you usually gone to bed?
+
+TEXT BOX
+
+2. During the past month, how long (in minutes) has it usually taken you to fall asleep each night?
+
+TEXT BOX
+
+3. During the past month, when have you usually gotten up in the morning?
+
+TEXT BOX
+
+4. During the past month, how many hours of actual sleep did you get at night? (This may be different than the number of hours you spend in bed.)
+
+TEXT BOX
+
+4a. For each of the remaining questions, check the one best response. Please answer all questions.
+During the past month, how often have you had trouble sleeping because you...
+
+ANSWER
+	
+5. Cannot get to sleep within 30 minutes
+
+Not during the past month
+Less than once a week 
+Once or twice a week 
+Three or more times a week 
+
+6. Wake up in the middle of the night or early morning
+
+Not during the past month
+Less than once a week 
+Once or twice a week 
+Three or more times a week 
+
+7. Have to get up to use the bathroom
+
+Not during the past month
+Less than once a week 
+Once or twice a week 
+Three or more times a week 
+
+8. Cannot breathe comfortably
+
+Not during the past month
+Less than once a week 
+Once or twice a week 
+Three or more times a week 
+
+9. Cough or snore loudly
+
+Not during the past month
+Less than once a week 
+Once or twice a week 
+Three or more times a week 
+
+10. Feel too cold
+
+Not during the past month
+Less than once a week 
+Once or twice a week 
+Three or more times a week 
+
+11. Feel too hot
+
+Not during the past month
+Less than once a week 
+Once or twice a week 
+Three or more times a week 
+
+12. Had bad dreams
+
+Not during the past month
+Less than once a week 
+Once or twice a week 
+Three or more times a week 
+
+13. Have pain
+
+Not during the past month
+Less than once a week 
+Once or twice a week 
+Three or more times a week 
+
+14. Other reason(s), please describe:
+
+TEXT RESPONSE BOX
+
+15. How often during the past month have you had trouble sleeping because of this?
+
+Not during the past month
+Less than once a week 
+Once or twice a week 
+Three or more times a week 
+
+16. During the past month, how would you rate your sleep quality overall?
+
+Very bad
+Fairly bad
+Fairly good
+Very good
+
+17. During the past month, how often have you taken medicine (prescribed or "over the counter") to help you sleep?
+
+Not during the past month
+Less than once a week 
+Once or twice a week 
+Three or more times a week 
+
+18. During the past month, how often have you had trouble staying awake while driving, eating meals, or engaging in social activity?
+
+Not during the past month
+Less than once a week
+Once or twice a week
+Three or more times a week
+
+19. During the past month, how much of a problem has it been for you to keep up enough enthusiasm to get things done?
+
+No problem at all
+Only a very slight problem
+Somewhat of a problem
+A very big problem
+
+20. Do you have a bed partner or roommate?
+
+No bed partner or roommate
+Partner/roommate in other room
+Partner in same room, but not same bed
+Partner in same bed
+
+20a. Directions: If you have a roommate or bed partner, ask him/her how often in the past month you have had…
+
+NOTHING
+
+21. Loud snoring
+
+Not during the past month
+Less than once a week
+Once or twice a week
+Three or more times a week
+
+22. Long pauses between breaths when asleep
+
+Not during the past month
+Less than once a week
+Once or twice a week
+Three or more times a week
+
+23. Legs twiching or jerking while you sleep
+
+Not during the past month
+Less than once a week
+Once or twice a week
+Three or more times a week
+
+24. Episodes of disorientation or confusion during sleep
+
+Not during the past month
+Less than once a week
+Once or twice a week
+Three or more times a week
+
+25. Other restlessness while you sleep; please describe: (free response)
+
+TEXT BOX
+
+26. How often during the past month has this happened?
+
+Not during the past month
+Less than once a week
+Once or twice a week
+Three or more times a week

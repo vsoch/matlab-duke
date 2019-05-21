@@ -1,0 +1,79 @@
+1. In the last month, how often have you been upset because of something that happened unexpectedly?"
+
+Never
+Almost never
+Sometimes
+Fairly often
+Very often
+
+2. In the last month, how often have you felt that you were unable to control the important things in your life?"
+
+Never
+Almost never
+Sometimes
+Fairly often
+Very often
+
+3. In the last month, how often have you felt nervous and anxious?"
+
+Never
+Almost never
+Sometimes
+Fairly often
+Very often
+
+4. In the last month, how often have you felt confident about your ability to handle your personal problems?"
+
+Never
+Almost never
+Sometimes
+Fairly often
+Very often
+
+5. In the last month, how often have you felt that things were going your way?"
+
+Never
+Almost never
+Sometimes
+Fairly often
+Very often
+
+6. In the last month, how often have you found that you could not cope with all the things that you had to do?"
+
+Never
+Almost never
+Sometimes
+Fairly often
+Very often
+
+7. In the last month, how often have you been able to control irritations in your life?"
+
+Never
+Almost never
+Sometimes
+Fairly often
+Very often
+
+8. In the last month, how often have you felt that you were on top of things?"
+
+Never
+Almost never
+Sometimes
+Fairly often
+Very often
+
+9. In the last month, how often have you been angered because of things that were outside of your control?"
+
+Never
+Almost never
+Sometimes
+Fairly often
+Very often
+
+10. In the last month, how often have you felt difficulties were piling up so high that you could not overcome them?"
+
+Never
+Almost never
+Sometimes
+Fairly often
+Very often
