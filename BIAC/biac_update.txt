@@ -1,0 +1,53 @@
+Instructions on how to update releases to the BIAC tools.
+
+(1) Make sure all desired changes are committed to CVS.
+
+(2) Choose a new version number NEWVERS (e.g. 3.1.4.2), and update
+VersionHistory.txt to include entries of interest for the new version.
+You can get a diff from the previous release or a particular date from
+CVS like this:
+
+  cd /my/working/matlab
+  cvs diff -b -u -r OLDTAG
+  cvs diff -b -u -D OLDDATE
+
+where OLDTAG is something like matlab-3-1-4-1 or OLDDATE is something like
+'2008/03/25'.  The -b option ignores differences in newlines (UNIX vs.
+Windows).
+
+(3) Commit VersionHistory.txt to CVS.
+
+  cd /my/working/matlab
+  cvs commit -m "Update version history" VersionHistory.txt
+
+(4) Tag the CVS tree with the new version number.  The CVS tag is
+matlab-TAGVERS, where TAGVERS is the same as NEWVERS with any dots replaced
+with dashes (e.g. matlab-3-1-4-2).  Here is how you tag:
+
+  cd /my/working/matlab
+  cvs tag matlab-3-1-4-2
+
+If you accidentally forgot to commit something and need to update the tag
+for a file, you can "force" re-tagging like this:
+
+  cvs tag -F matlab-3-1-4-2 [optional file list...]
+
+(5) Now update the standard location (hill/data/BIAC/Programs/MATLAB/BIAC)
+with the changes by either copying the updated files (in most cases this is
+the easiest option) or re-checking out a fresh copy based on the tag:
+
+  cd /temporary/directory
+  cvs -d ~/net/hill/data/BIAC/Source/CVSRepo checkout -r matlab-3-1-4-2 matlab 
+  
+and then copying it to ~/net/hill/data/BIAC/Programs/MATLAB/BIAC.
+
+(6) Now go to hill/data/BIAC/Programs/MATLAB and copy the BIAC directory into
+a new directory with a date and version label, zip it up, and copy it to
+BIAC_matlab_latest.zip:
+
+  cd ~/net/hill/data/BIAC/Programs/MATLAB
+  cp -r BIAC BIAC_matlab_20090423_ver3.1.4.2
+  zip -r BIAC_matlab_20090423_ver3.1.4.2.zip BIAC_matlab_20090423_ver3.1.4.2
+  cp BIAC_matlab_20090423_ver3.1.4.2 BIAC_matlab_latest.zip
+
+All done!
