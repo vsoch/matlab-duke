@@ -1,0 +1,29 @@
+#loads the fsl program
+export FSLDIR=/usr/local/fsl
+.  ${FSLDIR}/etc/fslconf/fsl.sh
+ 
+#change this part
+SUBJ=$1
+FSLDATADIR=~/experiments/FIGS.01/Data/RawData/$SUBJ
+ANATFILE=${FSLDATADIR}/$SUBJ/3/anatb.nii
+ 
+#########
+ 
+#makes the orient file
+/home/gadde/bin/MkFlirtInitMtx.pl --in $FSLDATADIR/run02.bxh --stdref --o $FSLDATADIR/ORIENT.mat
+ORIENT=$FSLDATADIR/ORIENT.mat
+for run in 01 02 03 04; do
+OUTPUT=${FSLDATADIR}/run${run}_output
+DATA=${FSLDATADIR}/run${run}.hdr
+echo $OUTPUT
+
+#makes the fsf files from the template fsf file
+ for i in 'template.fsf'; do
+  sed -e 's@OUTPUT@'$OUTPUT'@g' \
+   -e 's@ANAT@'$ANATFILE'@g' \
+   -e 's@ORIENT@'$ORIENT'@g' \
+   -e 's@DATA@'$DATA'@g' <$i> ${FSLDATADIR}/FEAT_${run}.fsf
+done
+#runs the analysis using the newly created fsf file
+feat ${FSLDATADIR}/FEAT_${run}.fsf
+done

@@ -1,0 +1,48 @@
+
+@----------------------------------------------------------@
+|        PLINK!       |     v1.07      |   10/Aug/2009     |
+|----------------------------------------------------------|
+|  (C) 2009 Shaun Purcell, GNU General Public License, v2  |
+|----------------------------------------------------------|
+|  For documentation, citation & bug-report instructions:  |
+|        http://pngu.mgh.harvard.edu/purcell/plink/        |
+@----------------------------------------------------------@
+
+Web-based version check ( --noweb to skip )
+Recent cached web-check found...Problem connecting to web
+
+Writing this text to log file [ 999.log ]
+Analysis started: Fri Mar 11 19:12:11 2011
+
+Options in effect:
+	--tfile 999
+	--out 999
+	--recode
+	--allele1234
+	--missing-genotype -
+	--output-missing-genotype 0
+
+Reading pedigree information from [ 999.tfam ] 
+1 individuals read from [ 999.tfam ] 
+0 individuals with nonmissing phenotypes
+Assuming a disease phenotype (1=unaff, 2=aff, 0=miss)
+Missing phenotype value is also -9
+0 cases, 0 controls and 1 missing
+0 males, 1 females, and 0 of unspecified sex
+966977 (of 966977) markers to be included from [ 999.tped ]
+Before frequency and genotyping pruning, there are 966977 SNPs
+0 founders and 1 non-founders found
+963494 SNPs with no founder genotypes observed
+Warning, MAF set to 0 for these SNPs (see --nonfounders)
+Writing list of these SNPs to [ 999.nof ]
+Total genotyping rate in remaining individuals is nan
+0 SNPs failed missingness test ( GENO > 1 )
+0 SNPs failed frequency test ( MAF < 0 )
+After frequency and genotyping pruning, there are 966977 SNPs
+After filtering, 0 cases, 0 controls and 1 missing
+After filtering, 0 males, 1 females, and 0 of unspecified sex
+Writing recoded ped file to [ 999.ped ] 
+Writing new map file to [ 999.map ] 
+
+Analysis finished: Fri Mar 11 19:12:28 2011
+

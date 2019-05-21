@@ -1,0 +1,10 @@
+Daemon started at 15:19:32 with pid 23913
+To kill this process type "kill 23913" at the head node command line
+Daemon has been running for 1.81121958627e-05 hours
+vvs4 has registered the job 1193063 for deletion
+Traceback (most recent call last):
+  File "/home/vvs4/First Level Analysis/DTI/DTI.py", line 215, in ?
+    n_jobs, n_other_jobs = _check_jobs(username, kill_time_limit, n_fake_jobs)
+  File "/home/vvs4/First Level Analysis/DTI/DTI.py", line 117, in _check_jobs
+    print("Job %s was deleted because it ran for more than the maximum time." % (job_info[0]))
+ValueError: I/O operation on closed file

@@ -1,0 +1,39 @@
+
+@----------------------------------------------------------@
+|        PLINK!       |     v1.07      |   10/Aug/2009     |
+|----------------------------------------------------------|
+|  (C) 2009 Shaun Purcell, GNU General Public License, v2  |
+|----------------------------------------------------------|
+|  For documentation, citation & bug-report instructions:  |
+|        http://pngu.mgh.harvard.edu/purcell/plink/        |
+@----------------------------------------------------------@
+
+Web-based version check ( --noweb to skip )
+Recent cached web-check found...Problem connecting to web
+
+Writing this text to log file [ dns.log ]
+Analysis started: Fri Mar 11 19:29:26 2011
+
+Options in effect:
+	--merge-list all.txt
+	--out dns
+	--recode
+
+Using merge mode 1 : consensus call (default)
+Merging 2 samples, final sample contains 2 individuals and 966977 markers
+Before frequency and genotyping pruning, there are 966977 SNPs
+0 founders and 2 non-founders found
+963494 SNPs with no founder genotypes observed
+Warning, MAF set to 0 for these SNPs (see --nonfounders)
+Writing list of these SNPs to [ dns.nof ]
+Total genotyping rate in remaining individuals is nan
+0 SNPs failed missingness test ( GENO > 1 )
+0 SNPs failed frequency test ( MAF < 0 )
+After frequency and genotyping pruning, there are 966977 SNPs
+After filtering, 0 cases, 0 controls and 2 missing
+After filtering, 0 males, 2 females, and 0 of unspecified sex
+Writing recoded ped file to [ dns.ped ] 
+Writing new map file to [ dns.map ] 
+
+Analysis finished: Fri Mar 11 19:30:15 2011
+

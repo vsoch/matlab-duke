@@ -1,0 +1,11 @@
+#This script is intended for converting DICOM --> NIFTI for the FIGS experiment
+
+bxhabsorb --fromtype dicom *.dcm name.bxh
+#Pittsburgh spits out DICOM in LPI orientation, and FSL wants LAS 
+#orientation. Let's fix that! Use the command bxhreorient: 
+
+bxhreorient --orientation=LAS name2.bxh oriented
+
+#Then, create the nifti header with the new bxh file 
+
+bxh2analyze --niftihdr -s -v name.bxh runname 

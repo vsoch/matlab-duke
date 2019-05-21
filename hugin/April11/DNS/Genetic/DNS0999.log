@@ -1,0 +1,26 @@
+
+@----------------------------------------------------------@
+|        PLINK!       |     v1.07      |   10/Aug/2009     |
+|----------------------------------------------------------|
+|  (C) 2009 Shaun Purcell, GNU General Public License, v2  |
+|----------------------------------------------------------|
+|  For documentation, citation & bug-report instructions:  |
+|        http://pngu.mgh.harvard.edu/purcell/plink/        |
+@----------------------------------------------------------@
+
+Web-based version check ( --noweb to skip )
+Recent cached web-check found...Problem connecting to web
+
+Writing this text to log file [ DNS0999.log ]
+Analysis started: Fri Mar 18 17:47:27 2011
+
+Options in effect:
+	--tfile DNS0999
+	--out DNS0999
+	--recode
+	--allele1234
+	--missing-genotype -
+	--output-missing-genotype 0
+
+
+ERROR: No file [ DNS0999.tped ] exists.

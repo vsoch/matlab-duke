@@ -1,0 +1,113 @@
+#!/bin/sh
+
+# ------qa_cluster_example-----------
+
+# This script is intended to run QA jobs on .bxh files to check for data
+# accuracy!  If you have a bunch of dicom images you must first run dicom2bxh2
+# before this script!  dicom2bxh places the resulting BXH in analysis while
+# dicom2bxh2 places the resulting BXH in /Data/RawData/$SUBJECT/4/BXH, where THIS
+# script looks for it.  So if you want to use dicom2bxh, you must change this script!
+
+#-------SUBMISSION ON COMMAND LINE-----------------
+ 
+#
+# >  qsub -v EXPERIMENT=Dummy.01 run_script_all qa_cluster_example.sh \ Subject1 Subject2 Subject3
+#
+# There are 2 USER sections 
+#  1. USER DIRECTIVE: If you want mail notifications when
+#     your job is completed or fails you need to set the 
+#     correct email address.
+#		   
+#  2. USER SCRIPT: Add the user script in this section.
+#     Within this section you can access your experiment 
+#     folder using $EXPERIMENT. All paths are relative to this variable
+#     eg: $EXPERIMENT/Data $EXPERIMENT/Analysis	
+#     By default all terminal output is routed to the " Analysis "
+#     folder under the Experiment directory i.e. $EXPERIMENT/Analysis
+#     To change this path, set the OUTDIR variable in this section
+#     to another location under your experiment folder
+#     eg: OUTDIR=$EXPERIMENT/Analysis/GridOut 	
+#     By default on successful completion the job will return 0
+#     If you need to set another return code, set the RETURNCODE
+#     variable in this section. To avoid conflict with system return 
+#     codes, set a RETURNCODE higher than 100.
+#     eg: RETURNCODE=110
+#     Arguments to the USER SCRIPT are accessible in the usual fashion
+#     eg:  $1 $2 $3
+# The remaining sections are setup related and don't require
+# modifications for most scripts. They are critical for access
+# to your data  	 
+ 
+# --- BEGIN GLOBAL DIRECTIVE -- 
+#$ -S /bin/sh
+#$ -o $HOME/$JOB_NAME.$JOB_ID.out
+#$ -e $HOME/$JOB_NAME.$JOB_ID.out
+#$ -m ea
+# -- END GLOBAL DIRECTIVE -- 
+ 
+# -- BEGIN PRE-USER --
+#Name of experiment whose data you want to access 
+EXPERIMENT=${EXPERIMENT:?"Experiment not provided"}
+ 
+source /etc/biac_sge.sh
+ 
+EXPERIMENT=`biacmount $EXPERIMENT`
+EXPERIMENT=${EXPERIMENT:?"Returned NULL Experiment"}
+ 
+if [ $EXPERIMENT = "ERROR" ]
+then
+	exit 32
+else 
+#Timestamp
+echo "----JOB [$JOB_NAME.$JOB_ID] START [`date`] on HOST [$HOSTNAME]----" 
+# -- END PRE-USER --
+# **********************************************************
+ 
+# -- BEGIN USER DIRECTIVE --
+# Send notifications to the following address
+$ -M vsochat@gmail.com
+ 
+# -- END USER DIRECTIVE --
+ 
+# -- BEGIN USER SCRIPT --
+# User script goes here
+ 
+# For fmriqa_generate.pl to run you need to either navigate to your subject's directory or 
+# list the file location in the command line below 
+# Note that this example lists all required variables in the text below (other than the standard 
+# EXPERIMENT=MyExperiment.01), but these could easily be incorporated as arguments
+#
+# Example:
+# qsub -v EXPERIMENT=MyExperiment.01 my_qsub_qa_script
+#
+# MyExperiment.01 is your experiment (e.g., TestSuite.01) 
+# my_qsub_qa_script is your script's full name.
+
+# ---------LONG VARIABLES -------------
+
+SUBJECT=$1
+
+# SUBJFOLDERS is your list of subject folders! The script it made to run on one subject at once, so
+# the call to the command line should include a list of subjects that will be run 1 by 1 by 1...
+ 
+#Perform QA
+	MAINFUNCDIR=${EXPERIMENT}/Data/RawData/${SUBJECT}/4
+ 
+	cd ${MAINFUNCDIR}
+ 
+	fmriqa_generate.pl BXH/BXHheader.bxh QA
+ 
+# BXH/BXHheader.bxh is the input
+# QA is the output directory (this will create a QA folder in ${EXPERIMENT}/Data/Func)
+ 
+# -- END USER SCRIPT -- #
+ 
+# **********************************************************
+# -- BEGIN POST-USER -- 
+echo "----JOB [$JOB_NAME.$JOB_ID] STOP [`date`]----" 
+OUTDIR=${OUTDIR:-$EXPERIMENT/Analysis/QA}
+mv $HOME/$JOB_NAME.$JOB_ID.out $OUTDIR/$JOB_NAME.$JOB_ID.out	 
+RETURNCODE=${RETURNCODE:-0}
+exit $RETURNCODE
+fi
+# -- END POST USER-- 

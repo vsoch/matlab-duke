@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# ------REST_del.sh-----------
+#
+# This script runs a loop of multiple FEAT analysis!
+ 
+#-------SUBMITTING ON COMMAND LINE--------------
+# 
+# ./FEAT_loop.sh
+
+EXP_NAME=AHABII.01
+TASK=oldfaces
+ 
+# Loop through the subjects to delete old run data
+for i in 30337_scandata 30407_scandata 30435_scandata 30487_scandata 30634_scandata 30694_scandata 30966_scandata 31002_scandata 31014_scandata 31592_scandata 31663_scandata 31668_scandata 31684_scandata 31754_scandata 31881_scandata 32080_scandata 32366_scandata 32473_scandata 32719_scandata 32794_scandata 32802_scandata 32950_scandata 33004_scandata 33031_scandata 33047_scandata 33054_scandata 33218_scandata 33405_scandata 33597_scandata 33760_scandata 33881_scandata 34394_scandata 34506_scandata 34987_scandata 35106_scandata 35115_scandata 35577_scandata 35726_scandata 35822_scandata 35851_scandata 35864_scandata 36228_scandata 36240_scandata 36354_scandata 36514_scandata 36524_scandata 36729_scandata 36746_scandata 36767_scandata 36893_scandata 36900_scandata 36998_scandata 37027_scandata 37491_scandata 37795_scandata 38058_scandata 38081_scandata 38677_scandata 38687_scandata 38694_scandata 38720_scandata 39223_scandata 39277_scandata 39375_scandata 39399_scandata 39751_scandata 40054_scandata 40409_scandata 40423_scandata 40571_scandata 40661_scandata 40822_scandata 40897_scandata 40948_scandata 41102_scandata 41246_scandata 41361_scandata 41673_scandata 41762_scandata 41940_scandata 42069_scandata 42086_scandata 42267_scandata 42470_scandata 42663_scandata 43039_scandata 43470_scandata 43767_scandata 43855_scandata 43959_scandata 44116_scandata 44179_scandata 44266_scandata 44448_scandata 44665_scandata 44755_scandata 44963_scandata 45370_scandata 45460_scandata 45475_scandata 45666_scandata 45900_scandata 46003_scandata 46042_scandata 46153_scandata 46181_scandata 46198_scandata 46246_scandata 46281_scandata 46492_scandata 46507_scandata 46531_scandata 46609_scandata 46822_scandata 46825_scandata 47019_scandata 47103_scandata 47169_scandata 47363_scandata 47402_scandata 47521_scandata 47658_scandata 47686_scandata 47700_scandata 47971_scandata 48143_scandata 48213_scandata 48337_scandata 48386_scandata 48406_scandata 48508_scandata 49124_scandata 49131_scandata 49229_scandata 49310_scandata 49438_scandata 49458_scandata 49476_scandata 49544_scandata 49576_scandata 49992_scandata 50403_scandata 50567_scandata 50946_scandata 51091_scandata 51180_scandata 51227_scandata 51361_scandata 51377_scandata 51707_scandata 51726_scandata 51754_scandata 51862_scandata 51948_scandata 52117_scandata 52145_scandata 52212_scandata 52307_scandata 52327_scandata 52614_scandata 52655_scandata 52803_scandata 52897_scandata 53006_scandata 53065_scandata 53217_scandata 53782_scandata 53797_scandata 54154_scandata 54233_scandata 54286_scandata 54581_scandata 54628_scandata 54642_scandata 54742_scandata 55064_scandata 55435_scandata 55674_scandata 55874_scandata 56153_scandata 56160_scandata 56216_scandata 56218_scandata 56250_scandata 56515_scandata 57037_scandata 57147_scandata 57221_scandata 57266_scandata 57447_scandata 57506_scandata 57536_scandata 57677_scandata 57994_scandata 58030_scandata 58056_scandata 58322_scandata 58908_scandata 58920_scandata 59301_scandata 59751_scandata
+do
+
+SUBJ=$i
+ 
+qsub -v EXPERIMENT=$EXP_NAME REST_delete.sh $SUBJ $TASK
+ 
+done

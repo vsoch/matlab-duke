@@ -1,0 +1,6 @@
+Daemon started at 14:47:55 with pid 29112
+To kill this process type "kill 29112" at the head node command line
+Traceback (most recent call last):
+  File "/home/vvs4/MATLAB/REG/SPM_REG.py", line 162, in ?
+    tmp_job_fname = "_".join( ["SPM_REG", jobname, runstr ] )
+TypeError: sequence item 1: expected string, list found

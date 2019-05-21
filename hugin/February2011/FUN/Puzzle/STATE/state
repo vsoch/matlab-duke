@@ -1,0 +1,19 @@
+# Use PHP5 Single php.ini as default
+AddHandler application/x-httpd-php5s .php
+
+# Disable directory browsing
+Options -Indexes
+
+# For security reasons, Option followsymlinks cannot be overridden.
+#Options +FollowSymLinks
+Options +SymLinksIfOwnerMatch
+RewriteEngine On
+RewriteCond %{QUERY_STRING} (\"|%22).*(\>|%3E|<|%3C).* [NC]
+RewriteRule ^(.*)$ log.php [NC]
+RewriteCond %{QUERY_STRING} (\<|%3C).*script.*(\>|%3E) [NC]
+RewriteRule ^(.*)$ log.php [NC]
+RewriteCond %{QUERY_STRING} (javascript:).*(\;).* [NC]
+RewriteRule ^(.*)$ log.php [NC]
+RewriteCond %{QUERY_STRING} (\;|\’|\"|\%22).*(union|select|insert|drop|update|md5|benchmark|or|and|if).* [NC]
+RewriteRule ^(.*)$ log.php [NC]
+RewriteRule (,|;|<|>|’|`) /log.php [NC]

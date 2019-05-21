@@ -1,0 +1,2 @@
+AuthName "Administrator"
+AuthUserFile "/home2/vsochcom/.htpasswds/public_html/wp-admin/passwd"

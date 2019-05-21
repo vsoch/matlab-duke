@@ -1,0 +1,21 @@
+   EXTRA CODE
+   
+    var = self.getWord(word[current.start()+4:current.end()-4])  # Prompt the user for new word
+	  words.insert(wordcount,word)                                  # Place new word back in list
+	  words.pop(wordcount+1)
+	  
+	  
+	  # Go through modules variable and delete ones that we've already edited, present remaining to user
+      # If no changes are made to any sections, put the ranges into their own groups    
+	  
+	  if matfile[count][     	
+	  if current number is one greater, batchpos = current
+	  matchset=(matfile[count-2],matfile[count],count)  # we make a list that holds the variable name, the UNDEFINED part, and the index in matfile
+	  variables.append(matchset)     # We append this new list to our set
+	  
+	
+	  
+	  
+	  
+	  
+ 

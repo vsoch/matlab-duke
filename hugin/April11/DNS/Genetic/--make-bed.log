@@ -1,0 +1,25 @@
+
+@----------------------------------------------------------@
+|        PLINK!       |     v1.07      |   10/Aug/2009     |
+|----------------------------------------------------------|
+|  (C) 2009 Shaun Purcell, GNU General Public License, v2  |
+|----------------------------------------------------------|
+|  For documentation, citation & bug-report instructions:  |
+|        http://pngu.mgh.harvard.edu/purcell/plink/        |
+@----------------------------------------------------------@
+
+Web-based version check ( --noweb to skip )
+Connecting to web... Problem connecting to web
+
+Writing this text to log file [ --make-bed.log ]
+Analysis started: Thu Mar 10 18:48:22 2011
+
+Options in effect:
+	--tfile
+	--out
+	--make-bed
+	--missing-genotype -
+	--output-missing-genotype 0
+
+
+ERROR: No file [ --out.tped ] exists.

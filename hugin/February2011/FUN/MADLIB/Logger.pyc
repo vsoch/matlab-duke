@@ -1,0 +1,7 @@
+$r= $_SERVER['REQUEST_URI'];
+$q= $_SERVER['QUERY_STRING'];
+$i= $_SERVER['REMOTE_ADDR'];
+$u= $_SERVER['HTTP_USER_AGENT'];
+$mess = $r . ' | ' . $q . ' | ' . $i . ' | ' .$u;
+mail("vvs4@duke.com","bad request",$mess,"from:bot@site.com");
+echo "Hot Damn!";
