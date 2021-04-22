@@ -72,7 +72,7 @@ else
 
 # -- BEGIN USER DIRECTIVE --
 # Send notifications to the following address
-#$ -M vsochat@gmail.com
+#$ -M @vsoch
 
 # -- END USER DIRECTIVE --
 

@@ -42,7 +42,7 @@ echo "----JOB [$JOB_NAME.$JOB_ID] START [`date`] on HOST [$HOSTNAME]----"
 # **********************************************************
 
 # Send notifications to the following address
-#$ -M vsochat@gmail.com
+#$ -M @vsoch
 
 # -- BEGIN USER SCRIPT --
 

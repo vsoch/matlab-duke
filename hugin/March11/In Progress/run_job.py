@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import sys,os,smtplib
 
-useremail="vsochat@gmail.com"
+useremail="@vsoch"
 
 f_name=sys.argv[1] #Get name of newly created template file
 f=open(f_name)

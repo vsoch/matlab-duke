@@ -10,7 +10,7 @@ import sys,os,time,re,datetime,smtplib
 #########user section#########################
 #user specific constants
 username = "vvs4"                               #your cluster login name (use what shows up in qstatall)
-useremail = "vsochat@gmail.com"                 #email to send job notices to
+useremail = "@vsoch"                 #email to send job notices to
 template_ss = file("spm_RESTSS.sh")             #job template location (on head node) for single subject processing
 template_gp = file("spm_RESTGP.sh")             #job template location (on head node) for group processing
 experiment = "DNS.01"                           #experiment name for qsub

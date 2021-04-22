@@ -8,7 +8,7 @@ import sys,os,time,re,datetime,smtplib
 #########user section#########################
 #user specific constants
 username = "vvs4"                               #your cluster login name (use what shows up in qstatall)
-useremail = "vsochat@gmail.com"                 #email to send job notices to
+useremail = "@vsoch"                 #email to send job notices to
 #template_f = file("spm_anat_batch_TEMPLATE.sh")      #job template location (on head node)
 job_fname = "vbm_batch_temp.sh"			# to be executed shell script
 experiment = "DARPA.01"                           #experiment name for qsub
